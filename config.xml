@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson>
+  <disabledAdministrativeMonitors>
+    <string>GitHubHookRegisterProblemMonitor</string>
+  </disabledAdministrativeMonitors>
+  <version>2.89.3</version>
+  <numExecutors>8</numExecutors>
+  <mode>NORMAL</mode>
+  <useSecurity>true</useSecurity>
+  <authorizationStrategy class="hudson.security.GlobalMatrixAuthorizationStrategy">
+    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Create:robotics</permission>
+    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Delete:robotics</permission>
+    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.ManageDomains:robotics</permission>
+    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Update:robotics</permission>
+    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.View:robotics</permission>
+    <permission>hudson.model.Computer.Build:robotics</permission>
+    <permission>hudson.model.Computer.Configure:robotics</permission>
+    <permission>hudson.model.Computer.Connect:robotics</permission>
+    <permission>hudson.model.Computer.Create:robotics</permission>
+    <permission>hudson.model.Computer.Delete:robotics</permission>
+    <permission>hudson.model.Computer.Disconnect:robotics</permission>
+    <permission>hudson.model.Hudson.Administer:robotics</permission>
+    <permission>hudson.model.Hudson.Read:anonymous</permission>
+    <permission>hudson.model.Hudson.Read:robotics</permission>
+    <permission>hudson.model.Item.Build:robotics</permission>
+    <permission>hudson.model.Item.Cancel:robotics</permission>
+    <permission>hudson.model.Item.Configure:robotics</permission>
+    <permission>hudson.model.Item.Create:robotics</permission>
+    <permission>hudson.model.Item.Delete:robotics</permission>
+    <permission>hudson.model.Item.Discover:robotics</permission>
+    <permission>hudson.model.Item.Move:robotics</permission>
+    <permission>hudson.model.Item.Read:anonymous</permission>
+    <permission>hudson.model.Item.Read:robotics</permission>
+    <permission>hudson.model.Item.ViewStatus:anonymous</permission>
+    <permission>hudson.model.Item.ViewStatus:robotics</permission>
+    <permission>hudson.model.Item.Workspace:robotics</permission>
+    <permission>hudson.model.Run.Delete:robotics</permission>
+    <permission>hudson.model.Run.Replay:robotics</permission>
+    <permission>hudson.model.Run.Update:robotics</permission>
+    <permission>hudson.model.View.Configure:robotics</permission>
+    <permission>hudson.model.View.Create:robotics</permission>
+    <permission>hudson.model.View.Delete:robotics</permission>
+    <permission>hudson.model.View.Read:robotics</permission>
+    <permission>hudson.scm.SCM.Tag:robotics</permission>
+  </authorizationStrategy>
+  <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
+    <disableSignup>true</disableSignup>
+    <enableCaptcha>false</enableCaptcha>
+  </securityRealm>
+  <disableRememberMe>false</disableRememberMe>
+  <projectNamingStrategy class="jenkins.model.ProjectNamingStrategy$DefaultProjectNamingStrategy"/>
+  <workspaceDir>${JENKINS_HOME}/workspace/${ITEM_FULLNAME}</workspaceDir>
+  <buildsDir>${ITEM_ROOTDIR}/builds</buildsDir>
+  <markupFormatter class="hudson.markup.EscapedMarkupFormatter"/>
+  <jdks/>
+  <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
+  <myViewsTabBar class="hudson.views.DefaultMyViewsTabBar"/>
+  <clouds/>
+  <quietPeriod>5</quietPeriod>
+  <scmCheckoutRetryCount>0</scmCheckoutRetryCount>
+  <views>
+    <listView>
+      <owner class="hudson" reference="../../.."/>
+      <name>DRONE</name>
+      <description>McGill Robotics Drone Builds</description>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+      <jobNames>
+        <comparator class="hudson.util.CaseInsensitiveComparator"/>
+        <string>ros-interop-frontend_all</string>
+        <string>ros-interop-frontend_master</string>
+        <string>ros-interop_all</string>
+        <string>ros-interop_master</string>
+        <string>ros-web-image-view_all</string>
+        <string>ros-web-image-view_master</string>
+      </jobNames>
+      <jobFilters/>
+      <columns>
+        <hudson.views.StatusColumn/>
+        <hudson.views.WeatherColumn/>
+        <hudson.views.JobColumn/>
+        <hudson.views.LastSuccessColumn/>
+        <hudson.views.LastFailureColumn/>
+        <hudson.views.LastDurationColumn/>
+        <hudson.views.BuildButtonColumn/>
+      </columns>
+      <includeRegex>.*drone.*</includeRegex>
+      <recurse>false</recurse>
+    </listView>
+    <listView>
+      <owner class="hudson" reference="../../.."/>
+      <name>ROVER</name>
+      <description>McGill Robotics Rover Builds</description>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+      <jobNames>
+        <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+      </jobNames>
+      <jobFilters/>
+      <columns>
+        <hudson.views.StatusColumn/>
+        <hudson.views.WeatherColumn/>
+        <hudson.views.JobColumn/>
+        <hudson.views.LastSuccessColumn/>
+        <hudson.views.LastFailureColumn/>
+        <hudson.views.LastDurationColumn/>
+        <hudson.views.BuildButtonColumn/>
+      </columns>
+      <includeRegex>.*rover.*</includeRegex>
+      <recurse>false</recurse>
+    </listView>
+    <listView>
+      <owner class="hudson" reference="../../.."/>
+      <name>STANDALONE</name>
+      <description>McGill Robotics Standalone ROS Package Builds</description>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+      <jobNames>
+        <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+        <string>ros-storm32-gimbal_all</string>
+        <string>ros-storm32-gimbal_master</string>
+      </jobNames>
+      <jobFilters/>
+      <columns>
+        <hudson.views.StatusColumn/>
+        <hudson.views.WeatherColumn/>
+        <hudson.views.JobColumn/>
+        <hudson.views.LastSuccessColumn/>
+        <hudson.views.LastFailureColumn/>
+        <hudson.views.LastDurationColumn/>
+        <hudson.views.BuildButtonColumn/>
+      </columns>
+      <includeRegex>ros-.*</includeRegex>
+      <recurse>false</recurse>
+    </listView>
+    <listView>
+      <owner class="hudson" reference="../../.."/>
+      <name>AUV</name>
+      <description>McGill Robotics AUV Builds</description>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+      <jobNames>
+        <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+        <string>ros-tritech-micron_all</string>
+        <string>ros-tritech-micron_master</string>
+      </jobNames>
+      <jobFilters/>
+      <columns>
+        <hudson.views.StatusColumn/>
+        <hudson.views.WeatherColumn/>
+        <hudson.views.JobColumn/>
+        <hudson.views.LastSuccessColumn/>
+        <hudson.views.LastFailureColumn/>
+        <hudson.views.LastDurationColumn/>
+        <hudson.views.BuildButtonColumn/>
+      </columns>
+      <includeRegex>.*auv.*</includeRegex>
+      <recurse>false</recurse>
+    </listView>
+    <hudson.model.AllView>
+      <owner class="hudson" reference="../../.."/>
+      <name>ALL</name>
+      <description>McGill Robotics Build Farm</description>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+    </hudson.model.AllView>
+  </views>
+  <primaryView>ALL</primaryView>
+  <slaveAgentPort>-1</slaveAgentPort>
+  <disabledAgentProtocols>
+    <string>JNLP-connect</string>
+    <string>JNLP2-connect</string>
+  </disabledAgentProtocols>
+  <label></label>
+  <crumbIssuer class="hudson.security.csrf.DefaultCrumbIssuer">
+    <excludeClientIPFromCrumb>false</excludeClientIPFromCrumb>
+  </crumbIssuer>
+  <nodeProperties/>
+  <globalNodeProperties/>
+</hudson>

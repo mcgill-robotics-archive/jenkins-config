@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.model.JenkinsLocationConfiguration>
+  <adminAddress>McGill Robotics Build Farm &lt;no-reply@dev.mcgillrobotics.com&gt;</adminAddress>
+  <jenkinsUrl>https://dev.mcgillrobotics.com/</jenkinsUrl>
+</jenkins.model.JenkinsLocationConfiguration>

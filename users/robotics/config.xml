@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<user>
+  <fullName>robotics</fullName>
+  <description></description>
+  <properties>
+    <jenkins.security.ApiTokenProperty>
+      <apiToken>{AQAAABAAAAAwSkudALBMr/ft0/LY1p0sv/lVk0EPZoMfxzjv6wDroRIxhwo167o/SrJVuQ4B4bt+/kYHw5VUHwOIu5qd7FmdVw==}</apiToken>
+    </jenkins.security.ApiTokenProperty>
+    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
+      <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
+        <entry>
+          <com.cloudbees.plugins.credentials.domains.Domain>
+            <specifications/>
+          </com.cloudbees.plugins.credentials.domains.Domain>
+          <java.util.concurrent.CopyOnWriteArrayList/>
+        </entry>
+        <entry>
+          <com.cloudbees.plugins.credentials.domains.Domain>
+            <name>blueocean-github-domain</name>
+            <description>blueocean-github-domain to store credentials by BlueOcean</description>
+            <specifications>
+              <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanDomainSpecification plugin="blueocean-pipeline-scm-api@1.4.0"/>
+            </specifications>
+          </com.cloudbees.plugins.credentials.domains.Domain>
+          <list>
+            <com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
+              <scope>USER</scope>
+              <id>github</id>
+              <description>GitHub Access Token</description>
+              <username>robotics</username>
+              <password>{AQAAABAAAAAw1OoftcdsJwA3nQvlU4mFqz4+5A+akkinPZyr1uhw1xuaxEofkj6nrWdA4KNuKlq/u2X4OhmFSL8JsgsrQ9y8SA==}</password>
+            </com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
+          </list>
+        </entry>
+      </domainCredentialsMap>
+    </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.20">
+      <emailAddress>mcgillroboticsteam@gmail.com</emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
+    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.61">
+      <triggers/>
+    </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
+    <jenkins.security.LastGrantedAuthoritiesProperty>
+      <roles>
+        <string>authenticated</string>
+      </roles>
+      <timestamp>1493667676934</timestamp>
+    </jenkins.security.LastGrantedAuthoritiesProperty>
+    <hudson.model.MyViewsProperty>
+      <primaryViewName></primaryViewName>
+      <views>
+        <hudson.model.AllView>
+          <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
+          <name>all</name>
+          <filterExecutors>false</filterExecutors>
+          <filterQueue>false</filterQueue>
+          <properties class="hudson.model.View$PropertyList"/>
+        </hudson.model.AllView>
+      </views>
+    </hudson.model.MyViewsProperty>
+    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.2.0">
+      <providerId>default</providerId>
+    </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
+    <hudson.model.PaneStatusProperties>
+      <collapsed/>
+    </hudson.model.PaneStatusProperties>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>#jbcrypt:$2a$10$mKYOR3cC7bNGKsaf/q.RqOXx4lw4VnhnGXM8yHU9/NwQWEuT00fAK</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys></authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
+    <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.1">
+      <autofavoriteEnabled>true</autofavoriteEnabled>
+    </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
+    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
+      <data class="concurrent-hash-map">
+        <entry>
+          <string>auv/dev</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>auv</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>rover</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/dev</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>rover/dev</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/master</string>
+          <boolean>false</boolean>
+        </entry>
+      </data>
+    </hudson.plugins.favorite.user.FavoriteUserProperty>
+  </properties>
+</user>
