@@ -84,6 +84,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/format-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>true</boolean>
         </entry>
