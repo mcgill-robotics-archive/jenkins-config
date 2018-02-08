@@ -92,6 +92,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/sdk3.2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/stable</string>
           <boolean>true</boolean>
         </entry>
