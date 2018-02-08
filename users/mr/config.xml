@@ -84,6 +84,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/update-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-dcdc-nuc/master</string>
           <boolean>true</boolean>
         </entry>
