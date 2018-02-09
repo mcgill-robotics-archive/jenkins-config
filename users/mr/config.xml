@@ -112,6 +112,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/master</string>
           <boolean>true</boolean>
         </entry>
