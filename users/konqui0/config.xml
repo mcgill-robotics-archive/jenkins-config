@@ -43,6 +43,10 @@
           <string>drone/tf_tree_flyzone</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>drone/pre-flight_check</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
   </properties>
