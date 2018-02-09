@@ -72,15 +72,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>Firmware/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-386</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>ros-dcdc-nuc/pipeline</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -96,10 +88,6 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/format-submodules</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>true</boolean>
         </entry>
@@ -108,15 +96,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/sdk3.2</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>Firmware/stable</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/format</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -124,11 +104,35 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>ros-storm32-gimbal/pipeline</string>
+          <string>auv/pipeline</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/pipeline</string>
+          <string>ros-leddar/PR-7</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-dcdc-nuc/pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/format-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/sdk3.2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/format</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-storm32-gimbal/pipeline</string>
           <boolean>true</boolean>
         </entry>
       </data>
