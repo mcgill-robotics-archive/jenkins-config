@@ -112,6 +112,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/status-text</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-leddar/PR-7</string>
           <boolean>true</boolean>
         </entry>
