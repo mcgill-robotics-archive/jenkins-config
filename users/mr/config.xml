@@ -44,6 +44,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/mavros-sitl</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/format-pipeline</string>
           <boolean>true</boolean>
         </entry>
