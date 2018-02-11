@@ -40,6 +40,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/drone_cv</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/drone_cv</string>
           <boolean>true</boolean>
         </entry>
