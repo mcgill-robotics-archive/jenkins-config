@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject plugin="workflow-multibranch@2.17">
+  <actions/>
+  <description></description>
   <properties>
     <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanCredentialsProvider_-FolderPropertyImpl plugin="blueocean-pipeline-scm-api@1.4.0">
       <domain plugin="credentials@2.1.16">
@@ -10,6 +12,10 @@
       <user>robotics</user>
       <id>github</id>
     </io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanCredentialsProvider_-FolderPropertyImpl>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.config.FolderConfig plugin="pipeline-model-definition@1.2.7">
+      <dockerLabel></dockerLabel>
+      <registry plugin="docker-commons@1.11"/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.config.FolderConfig>
   </properties>
   <folderViews class="jenkins.branch.MultiBranchProjectViewHolder" plugin="branch-api@2.0.18">
     <owner class="org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject" reference="../.."/>
@@ -33,7 +39,7 @@
     <data>
       <jenkins.branch.BranchSource>
         <source class="org.jenkinsci.plugins.github_branch_source.GitHubSCMSource" plugin="github-branch-source@2.3.2">
-          <apiUri>https://api.github.com</apiUri>
+          <id>544a2dd4-f8c4-4e2b-95c1-077a6007b9c5</id>
           <credentialsId>github</credentialsId>
           <repoOwner>mcgill-robotics</repoOwner>
           <repository>ros-leddar</repository>
@@ -54,8 +60,14 @@
             <jenkins.plugins.git.traits.CleanAfterCheckoutTrait plugin="git@3.7.0">
               <extension class="hudson.plugins.git.extensions.impl.CleanCheckout"/>
             </jenkins.plugins.git.traits.CleanAfterCheckoutTrait>
+            <jenkins.plugins.git.traits.WipeWorkspaceTrait plugin="git@3.7.0">
+              <extension class="hudson.plugins.git.extensions.impl.WipeWorkspace"/>
+            </jenkins.plugins.git.traits.WipeWorkspaceTrait>
           </traits>
         </source>
+        <strategy class="jenkins.branch.DefaultBranchPropertyStrategy">
+          <properties class="empty-list"/>
+        </strategy>
       </jenkins.branch.BranchSource>
     </data>
     <owner class="org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject" reference="../.."/>
