@@ -40,6 +40,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
+          <string>rover/tutorial%2Farm</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>rover/pid_tests</string>
           <boolean>true</boolean>
         </entry>
