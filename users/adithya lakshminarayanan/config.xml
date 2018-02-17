@@ -40,6 +40,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/PR-396</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/zerostate_killswitch</string>
           <boolean>true</boolean>
         </entry>
