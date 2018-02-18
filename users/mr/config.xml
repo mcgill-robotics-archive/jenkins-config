@@ -164,6 +164,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-401</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/format-submodules</string>
           <boolean>true</boolean>
         </entry>
