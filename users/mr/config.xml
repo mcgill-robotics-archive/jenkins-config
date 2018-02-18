@@ -48,15 +48,19 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/format-pipeline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-384</string>
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/format-pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-383</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/lang-format</string>
           <boolean>true</boolean>
         </entry>
         <entry>
