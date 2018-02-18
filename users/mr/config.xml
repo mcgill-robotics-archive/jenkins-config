@@ -192,6 +192,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-405</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/no-lint-submodules</string>
           <boolean>true</boolean>
         </entry>
