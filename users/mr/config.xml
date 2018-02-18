@@ -148,6 +148,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/format-version</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/master</string>
           <boolean>true</boolean>
         </entry>
