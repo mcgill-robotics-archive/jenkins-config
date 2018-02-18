@@ -144,6 +144,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-399</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/master</string>
           <boolean>true</boolean>
         </entry>
