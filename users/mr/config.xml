@@ -48,15 +48,19 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/format-pipeline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-384</string>
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/format-pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-383</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/lint-no-disable-unknown</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -120,7 +124,19 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-395</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-394</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-leddar/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-393</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -136,11 +152,19 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/fix-format</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/format-submodules</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-leddar/sdk3.2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/no-lint-submodules</string>
           <boolean>true</boolean>
         </entry>
         <entry>
