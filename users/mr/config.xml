@@ -180,6 +180,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/enforce-format-version</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/format</string>
           <boolean>true</boolean>
         </entry>
