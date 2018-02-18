@@ -192,6 +192,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-404</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/enforce-format-version</string>
           <boolean>true</boolean>
         </entry>
