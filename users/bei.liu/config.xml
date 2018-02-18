@@ -44,6 +44,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/PR-371</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/PR-369</string>
           <boolean>true</boolean>
         </entry>
