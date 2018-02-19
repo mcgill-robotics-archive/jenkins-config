@@ -188,6 +188,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-406</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-leddar/sdk3.2</string>
           <boolean>true</boolean>
         </entry>
