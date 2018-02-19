@@ -215,6 +215,10 @@
           <string>ros-storm32-gimbal/pipeline</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>drone/verbose-format</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
   </properties>
