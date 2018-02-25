@@ -48,11 +48,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-384</string>
+          <string>drone/mavros-msgs</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/format-pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-384</string>
           <boolean>true</boolean>
         </entry>
         <entry>
