@@ -48,22 +48,6 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/mavros-msgs</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/format-pipeline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-384</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-383</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/lang-format</string>
           <boolean>true</boolean>
         </entry>
@@ -76,27 +60,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-388</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-387</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>ros-web-image-view/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-386</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>ros-tritech-micron/pipeline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/update-submodules</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -120,19 +84,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/pipeline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/status-text</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-mavros-setup</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/PR-7</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -141,10 +93,6 @@
         </entry>
         <entry>
           <string>drone/PR-394</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/master</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -160,15 +108,83 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/format-version</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>Firmware/master</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-dcdc-nuc/pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/sdk3.2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/no-lint-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/enforce-format-version</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/format</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/mavros-msgs</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/format-pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-384</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-383</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-388</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-387</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-386</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/update-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/pipeline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-mavros-setup</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/PR-7</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/format-version</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -192,11 +208,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-406</string>
+          <string>drone/PR-407</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/sdk3.2</string>
+          <string>drone/PR-406</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -204,19 +220,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/no-lint-submodules</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-404</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/enforce-format-version</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/format</string>
           <boolean>true</boolean>
         </entry>
         <entry>
