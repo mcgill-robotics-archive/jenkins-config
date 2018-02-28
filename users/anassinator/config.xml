@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <user>
-  <fullName>anassinator</fullName>
+  <fullName>Anass Al</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
       <apiToken>{AQAAABAAAAAwCwbdcnNqvCgMr6YOW4WVL4iNG3sidiXojZQMg/KuVaeSOG9r4u5PSVmOPVoT2MHwjhSfMjtWWGzbj4vbgSy/fw==}</apiToken>
@@ -41,7 +41,7 @@
       <data class="concurrent-hash-map"/>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwcjFplcUFkhAyHfmKseb+zdvQsyU8bBYHXdJN2CJucwPBZ/+S1KUYpDd+vxv4hfacBbdmgn8+/5oqFyaFodZGzw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwj70SWqZfiUMpB8r17pcOD1jr/X2zlcHMR4kFEyTSd8ZumV3FDAlohIvUhjXv9i7zjWsBWnQmCFlZGylZA0f0kA==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
