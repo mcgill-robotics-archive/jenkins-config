@@ -17,6 +17,7 @@
         <string>mcgill-robotics</string>
       </organizationNameList>
       <adminUserNameList class="linked-list">
+        <string>mcgillrobotics</string>
         <string>anassinator</string>
       </adminUserNameList>
       <authenticatedUserReadPermission>false</authenticatedUserReadPermission>
@@ -32,7 +33,7 @@
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAwq+1pJ+zoDxHK6ofn4zvIforEYs88zKz+H1jhPxHID8j3US9FpUtdmaO9lCrDoKA2YuVBegQejSO5EIGGk5E2cw==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAw1kOlequfi5pCJGmaF4D7vuIzm5n+afdVCzj69hjMJxncB+UbWFKZz7N5IFuro4R0nmaWDcs5/n//+3X/M5RXrw==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
