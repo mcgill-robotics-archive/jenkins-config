@@ -11,45 +11,29 @@
   <numExecutors>8</numExecutors>
   <mode>NORMAL</mode>
   <useSecurity>true</useSecurity>
-  <authorizationStrategy class="hudson.security.GlobalMatrixAuthorizationStrategy">
-    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Create:robotics</permission>
-    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Delete:robotics</permission>
-    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.ManageDomains:robotics</permission>
-    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Update:robotics</permission>
-    <permission>com.cloudbees.plugins.credentials.CredentialsProvider.View:robotics</permission>
-    <permission>hudson.model.Computer.Build:robotics</permission>
-    <permission>hudson.model.Computer.Configure:robotics</permission>
-    <permission>hudson.model.Computer.Connect:robotics</permission>
-    <permission>hudson.model.Computer.Create:robotics</permission>
-    <permission>hudson.model.Computer.Delete:robotics</permission>
-    <permission>hudson.model.Computer.Disconnect:robotics</permission>
-    <permission>hudson.model.Hudson.Administer:robotics</permission>
-    <permission>hudson.model.Hudson.Read:anonymous</permission>
-    <permission>hudson.model.Hudson.Read:robotics</permission>
-    <permission>hudson.model.Item.Build:robotics</permission>
-    <permission>hudson.model.Item.Cancel:robotics</permission>
-    <permission>hudson.model.Item.Configure:robotics</permission>
-    <permission>hudson.model.Item.Create:robotics</permission>
-    <permission>hudson.model.Item.Delete:robotics</permission>
-    <permission>hudson.model.Item.Discover:robotics</permission>
-    <permission>hudson.model.Item.Move:robotics</permission>
-    <permission>hudson.model.Item.Read:anonymous</permission>
-    <permission>hudson.model.Item.Read:robotics</permission>
-    <permission>hudson.model.Item.ViewStatus:anonymous</permission>
-    <permission>hudson.model.Item.ViewStatus:robotics</permission>
-    <permission>hudson.model.Item.Workspace:robotics</permission>
-    <permission>hudson.model.Run.Delete:robotics</permission>
-    <permission>hudson.model.Run.Replay:robotics</permission>
-    <permission>hudson.model.Run.Update:robotics</permission>
-    <permission>hudson.model.View.Configure:robotics</permission>
-    <permission>hudson.model.View.Create:robotics</permission>
-    <permission>hudson.model.View.Delete:robotics</permission>
-    <permission>hudson.model.View.Read:robotics</permission>
-    <permission>hudson.scm.SCM.Tag:robotics</permission>
+  <authorizationStrategy class="org.jenkinsci.plugins.GithubAuthorizationStrategy" plugin="github-oauth@0.29">
+    <rootACL>
+      <organizationNameList class="linked-list">
+        <string>mcgill-robotics</string>
+      </organizationNameList>
+      <adminUserNameList class="linked-list">
+        <string>anassinator</string>
+      </adminUserNameList>
+      <authenticatedUserReadPermission>false</authenticatedUserReadPermission>
+      <useRepositoryPermissions>true</useRepositoryPermissions>
+      <authenticatedUserCreateJobPermission>false</authenticatedUserCreateJobPermission>
+      <allowGithubWebHookPermission>false</allowGithubWebHookPermission>
+      <allowCcTrayPermission>false</allowCcTrayPermission>
+      <allowAnonymousReadPermission>false</allowAnonymousReadPermission>
+      <allowAnonymousJobStatusPermission>true</allowAnonymousJobStatusPermission>
+    </rootACL>
   </authorizationStrategy>
-  <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
-    <disableSignup>true</disableSignup>
-    <enableCaptcha>false</enableCaptcha>
+  <securityRealm class="org.jenkinsci.plugins.GithubSecurityRealm">
+    <githubWebUri>https://github.com</githubWebUri>
+    <githubApiUri>https://api.github.com</githubApiUri>
+    <clientID>dfda38c25d847c2b0f4e</clientID>
+    <clientSecret>{AQAAABAAAAAwz1cVIHWVWZ4C+E2ZZZYCL0YvJ9jRlU3tPJwfkkDXbpI1vZgnImtVLCostTteHytmklsQhB2N2tzxr19jGg25mQ==}</clientSecret>
+    <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
   <projectNamingStrategy class="jenkins.model.ProjectNamingStrategy$DefaultProjectNamingStrategy"/>
