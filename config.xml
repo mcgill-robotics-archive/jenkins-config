@@ -135,8 +135,9 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
-        <string>ros-tritech-micron_all</string>
-        <string>ros-tritech-micron_master</string>
+        <string>auv</string>
+        <string>ros-dcdc-nuc</string>
+        <string>ros-tritech-micron</string>
       </jobNames>
       <jobFilters/>
       <columns>
