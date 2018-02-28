@@ -87,6 +87,7 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+        <string>rover</string>
       </jobNames>
       <jobFilters/>
       <columns>
@@ -98,7 +99,6 @@
         <hudson.views.LastDurationColumn/>
         <hudson.views.BuildButtonColumn/>
       </columns>
-      <includeRegex>.*rover.*</includeRegex>
       <recurse>false</recurse>
     </listView>
     <listView>
