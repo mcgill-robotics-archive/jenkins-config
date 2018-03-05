@@ -48,6 +48,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/dev</string>
           <boolean>true</boolean>
         </entry>
