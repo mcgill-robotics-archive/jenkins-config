@@ -53,7 +53,7 @@
         </entry>
         <entry>
           <string>ros-leddar/master</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/master</string>
