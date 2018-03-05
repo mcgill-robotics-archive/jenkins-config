@@ -52,6 +52,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-tritech-micron/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/dev</string>
           <boolean>true</boolean>
         </entry>
