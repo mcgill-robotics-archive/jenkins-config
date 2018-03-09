@@ -7,5 +7,6 @@
   <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes>
     <include>userContent/*</include>
+    <include>log/*.xml</include>
   </manualSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
