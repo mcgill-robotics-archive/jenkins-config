@@ -48,12 +48,20 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-411</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/status-text</string>
           <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/sitl-headless</string>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/master</string>
@@ -78,7 +86,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw7R/bHJkR6ehxN4IfHFhu8kmGCjfgZFxxF3NvPh0UGFii7PQekvWX41C3BBrZnyPopH5K7EGvtcknIf38RZosgA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwevZq7bGVPMssOZV+T3/6r736W76wZ1NN5jQo9I8VkINfAYOMr5/2cfVXnzDOQeeS82cOYnJOZivVU1stBXEKcQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
