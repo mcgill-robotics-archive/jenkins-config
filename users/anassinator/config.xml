@@ -53,7 +53,7 @@
         </entry>
         <entry>
           <string>drone/mavros-statustext-update</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/sitl-headless</string>
