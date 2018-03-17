@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.1' encoding='UTF-8'?>
 <user>
   <fullName>Anass Al</fullName>
   <properties>
@@ -102,7 +102,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwygaMjAWI24+jqt+CJG206LYTsXh5BdWeMQNSocwB+bHG8YweXzoAfSPgDObm8fTAE9Z7RaJmBLIM+x2+d3RvfQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwWnyMzF6bwW+aAd+HIaQ+vYKK8RFBr77aXt0SNqsJsf0bPBemHbHSfyw6VGBEzzYn6CEF7DnmZrCLH+W9cI9WwQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
