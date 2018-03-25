@@ -52,16 +52,8 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/mavros-statustext-update</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/mission-statustext-fix</string>
           <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/sitl-headless</string>
-          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/master</string>
@@ -81,22 +73,6 @@
         </entry>
         <entry>
           <string>ros-web-image-view/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-414</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-413</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-412</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-411</string>
           <boolean>false</boolean>
         </entry>
         <entry>
