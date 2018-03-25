@@ -53,7 +53,7 @@
         </entry>
         <entry>
           <string>drone/mission-statustext-fix</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/master</string>
