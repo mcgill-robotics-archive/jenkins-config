@@ -56,6 +56,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/mission-statustext-fix</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/sitl-headless</string>
           <boolean>false</boolean>
         </entry>
@@ -96,13 +100,29 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>Firmware/steering-gain</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-417</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-416</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/baudrate</string>
+          <boolean>true</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw4IXPjRnsFhsOFXtK+fRw1XfA8t6gXcbUQKBvN2NBq1CztD2qeWSlbdhogDD7X9hBdEfV+odK2SMjLE2EgVyQ8A==}</accessToken>
+      <accessToken>{AQAAABAAAAAwuG6/7HMJ4I0Nv5YJJiHkIm/dPhu4Md2F2VgGE4IABXLssTzN7jOtNflrQgUW7Q677GOdAZ4cgP5NXZaUJspj7g==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
