@@ -31,7 +31,7 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.20">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>anassinator@users.noreply.github.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.2">
@@ -98,7 +98,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwaIRcUED222/Xd5xxje7Wsj15KR9Qfep2a7oN07eoiJR7K6te/duxT9cy2AU2X1G1enqBY+eRxrGZdiG3b2MLTg==}</accessToken>
+      <accessToken>{AQAAABAAAAAwXtC6T/JNqK+qtbuFFnlvAjmi1Pen8etGZ4UWGyS+qoaZQnTu2KktuV4si14cO/9JSgV7O5fgb9UauRcb4jBk/g==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
