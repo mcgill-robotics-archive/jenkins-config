@@ -74,7 +74,7 @@
         </entry>
         <entry>
           <string>drone/tools.sh</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-readme</string>
