@@ -73,6 +73,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/tools.sh</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/status-text</string>
           <boolean>false</boolean>
         </entry>
