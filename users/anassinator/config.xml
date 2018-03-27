@@ -122,7 +122,7 @@
         </entry>
         <entry>
           <string>drone/PR-418</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-storm32-gimbal/master</string>
