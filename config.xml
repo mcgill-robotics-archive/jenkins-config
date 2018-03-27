@@ -182,8 +182,8 @@
             <comparator class="hudson.util.CaseInsensitiveComparator"/>
           </default>
           <int>1</int>
-          <string>PATH</string>
-          <string>/home/jenkins/tools.sh:$PATH</string>
+          <string>PATH+EXTRA</string>
+          <string>/home/jenkins/tools.sh</string>
         </tree-map>
       </envVars>
     </hudson.slaves.EnvironmentVariablesNodeProperty>
