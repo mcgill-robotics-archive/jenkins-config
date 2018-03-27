@@ -136,6 +136,10 @@
           <string>drone/baudrate</string>
           <boolean>false</boolean>
         </entry>
+        <entry>
+          <string>drone/PR-419</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
