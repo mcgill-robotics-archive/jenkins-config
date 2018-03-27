@@ -111,8 +111,7 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
-        <string>ros-storm32-gimbal_all</string>
-        <string>ros-storm32-gimbal_master</string>
+        <string>tools.sh</string>
       </jobNames>
       <jobFilters/>
       <columns>
