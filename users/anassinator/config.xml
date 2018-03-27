@@ -98,7 +98,7 @@
         </entry>
         <entry>
           <string>drone/PR-420</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/dev</string>
