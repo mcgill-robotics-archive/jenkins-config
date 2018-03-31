@@ -69,52 +69,12 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>ros-interop/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/tools.sh</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-readme</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>Firmware/status-text</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/offline</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/mission-statustext-fix</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-tritech-micron/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-interop/PR-62</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-420</string>
           <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/dev</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>Firmware/master</string>
-          <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-web-image-view/master</string>
@@ -122,10 +82,6 @@
         </entry>
         <entry>
           <string>drone/update-submodules</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -154,6 +110,54 @@
         </entry>
         <entry>
           <string>drone/PR-419</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/tools.sh</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-readme</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/status-text</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/offline</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/mission-statustext-fix</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/update-interop</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/PR-62</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/dev</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
       </data>
