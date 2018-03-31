@@ -157,6 +157,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-423</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
