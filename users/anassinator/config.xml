@@ -73,6 +73,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/gooney3-offline-interop</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-420</string>
           <boolean>false</boolean>
         </entry>
