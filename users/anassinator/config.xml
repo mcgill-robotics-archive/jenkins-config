@@ -170,7 +170,7 @@
         </entry>
         <entry>
           <string>ros-interop/download-mission-environ</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
