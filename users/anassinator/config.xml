@@ -130,7 +130,7 @@
         </entry>
         <entry>
           <string>ros-interop/offline</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/mission-statustext-fix</string>
