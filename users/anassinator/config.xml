@@ -150,7 +150,7 @@
         </entry>
         <entry>
           <string>ros-interop/PR-62</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/master</string>
