@@ -138,7 +138,7 @@
         </entry>
         <entry>
           <string>drone/update-interop</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/master</string>
