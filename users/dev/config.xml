@@ -25,6 +25,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-dcdc-nuc/update_readme</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-421</string>
           <boolean>true</boolean>
         </entry>
