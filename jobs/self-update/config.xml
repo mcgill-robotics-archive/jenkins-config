@@ -42,7 +42,7 @@
           <id>82fe22df-01f9-4616-9d43-42ab99b4e9bc</id>
           <credentialsId>github</credentialsId>
           <repoOwner>mcgill-robotics</repoOwner>
-          <repository>jenkins-auto-update</repository>
+          <repository>jenkins-self-update</repository>
           <traits>
             <org.jenkinsci.plugins.github__branch__source.BranchDiscoveryTrait>
               <strategyId>3</strategyId>
