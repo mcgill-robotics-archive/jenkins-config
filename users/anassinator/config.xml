@@ -105,6 +105,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>self-update/build-status</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/master</string>
           <boolean>true</boolean>
         </entry>
