@@ -21,6 +21,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-425</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/offboard_ctl_script</string>
           <boolean>true</boolean>
         </entry>
