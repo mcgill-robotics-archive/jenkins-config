@@ -122,7 +122,7 @@
         </entry>
         <entry>
           <string>self-update/PR-1</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/master</string>
