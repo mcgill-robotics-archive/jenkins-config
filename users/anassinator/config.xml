@@ -89,6 +89,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>tools.sh/PR-3</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/PR-2</string>
           <boolean>true</boolean>
         </entry>
