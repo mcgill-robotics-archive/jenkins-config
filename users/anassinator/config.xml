@@ -137,6 +137,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>tools.sh/sync-init</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/master</string>
           <boolean>true</boolean>
         </entry>
