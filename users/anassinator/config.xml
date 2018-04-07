@@ -89,6 +89,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>tools.sh/PR-2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/update-submodules</string>
           <boolean>false</boolean>
         </entry>
