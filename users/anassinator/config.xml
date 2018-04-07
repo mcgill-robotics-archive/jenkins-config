@@ -181,6 +181,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>tools.sh/toc</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
