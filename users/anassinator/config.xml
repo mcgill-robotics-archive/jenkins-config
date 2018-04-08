@@ -220,6 +220,10 @@
           <string>ros-interop/download-mission-environ</string>
           <boolean>false</boolean>
         </entry>
+        <entry>
+          <string>ros-teensy/master</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
