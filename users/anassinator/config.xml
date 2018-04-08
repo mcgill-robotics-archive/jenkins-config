@@ -149,6 +149,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/params</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-teensy/jenkins</string>
           <boolean>false</boolean>
         </entry>
