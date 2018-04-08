@@ -90,7 +90,7 @@
         </entry>
         <entry>
           <string>tools.sh/PR-3</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/PR-2</string>
