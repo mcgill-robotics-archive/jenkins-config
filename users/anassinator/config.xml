@@ -222,7 +222,7 @@
         </entry>
         <entry>
           <string>ros-teensy/master</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
