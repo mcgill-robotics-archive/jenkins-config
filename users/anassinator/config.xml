@@ -126,7 +126,7 @@
         </entry>
         <entry>
           <string>tools.sh/master</string>
-          <boolean>false</boolean>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/baudrate</string>
