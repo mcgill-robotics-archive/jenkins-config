@@ -102,7 +102,7 @@
         </entry>
         <entry>
           <string>tools.sh/PR-1</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/PR-418</string>
