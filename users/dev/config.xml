@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/testing_04_08</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-dcdc-nuc/PR-4</string>
           <boolean>true</boolean>
         </entry>
