@@ -170,7 +170,7 @@
         </entry>
         <entry>
           <string>drone/fix-warning-offboard</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/status-text</string>
