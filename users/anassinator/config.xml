@@ -117,15 +117,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-teensy/PR-4</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-416</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>self-update/build-status</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -141,19 +133,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>self-update/PR-1</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/sync-init</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/params</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-teensy/jenkins</string>
           <boolean>false</boolean>
         </entry>
         <entry>
