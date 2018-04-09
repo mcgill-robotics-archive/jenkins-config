@@ -202,7 +202,7 @@
         </entry>
         <entry>
           <string>drone/PR-431</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/master</string>
