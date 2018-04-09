@@ -62,7 +62,6 @@
         <string>ros-dcdc-nuc</string>
         <string>ros-interop</string>
         <string>ros-interop-frontend</string>
-        <string>ros-leddar</string>
         <string>ros-storm32-gimbal</string>
         <string>ros-web-image-view</string>
       </jobNames>
