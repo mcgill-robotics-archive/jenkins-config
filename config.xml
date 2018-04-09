@@ -25,7 +25,7 @@
       <authenticatedUserCreateJobPermission>false</authenticatedUserCreateJobPermission>
       <allowGithubWebHookPermission>true</allowGithubWebHookPermission>
       <allowCcTrayPermission>false</allowCcTrayPermission>
-      <allowAnonymousReadPermission>true</allowAnonymousReadPermission>
+      <allowAnonymousReadPermission>false</allowAnonymousReadPermission>
       <allowAnonymousJobStatusPermission>true</allowAnonymousJobStatusPermission>
     </rootACL>
   </authorizationStrategy>
@@ -33,7 +33,7 @@
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAw1kOlequfi5pCJGmaF4D7vuIzm5n+afdVCzj69hjMJxncB+UbWFKZz7N5IFuro4R0nmaWDcs5/n//+3X/M5RXrw==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAwvBrhSxN2Uag/aBU9oC4uXgQ1I4ZrjxBVmHxGHwUBOIluZSlsa4l4dG+4Qr/zMP5XqtUL8qsvZctfOe3DjGGVHg==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
