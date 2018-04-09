@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.1' encoding='UTF-8'?>
 <user>
   <fullName>bei.liu</fullName>
   <properties>
@@ -11,13 +11,17 @@
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.61">
+    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
           <string>auv/PR-372</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/vtail_pitch</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -46,7 +50,7 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.20">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>bei.liu@mail.mcgill.ca</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
