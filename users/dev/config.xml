@@ -25,6 +25,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/rosdep</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/offboard_ctl_script</string>
           <boolean>true</boolean>
         </entry>
