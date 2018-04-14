@@ -85,6 +85,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/PR-10</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/sync-https</string>
           <boolean>false</boolean>
         </entry>
