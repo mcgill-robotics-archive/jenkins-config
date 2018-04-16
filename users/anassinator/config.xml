@@ -262,7 +262,7 @@
         </entry>
         <entry>
           <string>drone/obstacle-tracker</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/package-2</string>
