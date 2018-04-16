@@ -266,7 +266,7 @@
         </entry>
         <entry>
           <string>ros-tritech-micron/package-2</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
