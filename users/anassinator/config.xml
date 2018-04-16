@@ -165,6 +165,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-leddar/PR-11</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/PR-3</string>
           <boolean>false</boolean>
         </entry>
