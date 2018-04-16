@@ -69,6 +69,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-web-image-view/package-2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/gooney3-offline-interop</string>
           <boolean>false</boolean>
         </entry>
