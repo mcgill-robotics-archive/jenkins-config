@@ -81,6 +81,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop-frontend/package-2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
