@@ -240,6 +240,10 @@
           <string>ros-teensy/master</string>
           <boolean>false</boolean>
         </entry>
+        <entry>
+          <string>drone/obstacle-tracker</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
