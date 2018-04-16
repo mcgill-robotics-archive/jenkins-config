@@ -254,7 +254,7 @@
         </entry>
         <entry>
           <string>ros-interop/package-2</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-teensy/master</string>
