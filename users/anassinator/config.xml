@@ -222,7 +222,7 @@
         </entry>
         <entry>
           <string>ros-storm32-gimbal/PR-3</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/sync-init</string>
