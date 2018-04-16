@@ -81,6 +81,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-web-image-view/PR-3</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
