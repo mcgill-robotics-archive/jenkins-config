@@ -98,7 +98,7 @@
         </entry>
         <entry>
           <string>ros-interop/master</string>
-          <boolean>false</boolean>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/fix-warning-offboard</string>
