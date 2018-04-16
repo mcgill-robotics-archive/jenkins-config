@@ -266,7 +266,7 @@
         </entry>
         <entry>
           <string>ros-dcdc-nuc/package-2</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/obstacle-tracker</string>
