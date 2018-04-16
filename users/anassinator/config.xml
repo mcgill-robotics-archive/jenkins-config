@@ -90,7 +90,7 @@
         </entry>
         <entry>
           <string>ros-tritech-micron/PR-6</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/params</string>
