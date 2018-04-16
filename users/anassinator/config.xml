@@ -69,23 +69,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-tritech-micron/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/gooney3-offline-interop</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-420</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-web-image-view/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/PR-10</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -93,55 +77,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>tools.sh/PR-3</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/update-submodules</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-1</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-418</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-417</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/PR-64</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-416</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/baudrate</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-419</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/sync-init</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -153,43 +93,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/tools.sh</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-readme</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/fix-warning-offboard</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>Firmware/status-text</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/offline</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/mission-statustext-fix</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/update-interop</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/PR-63</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/PR-62</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -225,14 +129,6 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>tools.sh/toc</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/package-2</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
@@ -245,11 +141,119 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-tritech-micron/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-420</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/PR-10</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/update-submodules</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-1</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-418</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-417</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/PR-64</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-416</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-419</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/sync-init</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/tools.sh</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-readme</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/status-text</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/offline</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/mission-statustext-fix</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/update-interop</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/PR-63</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/PR-62</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/toc</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/package-2</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-teensy/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/obstacle-tracker</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-tritech-micron/package-2</string>
           <boolean>true</boolean>
         </entry>
       </data>
