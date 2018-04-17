@@ -106,7 +106,7 @@
         </entry>
         <entry>
           <string>compsys/PR-127</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/PR-6</string>
