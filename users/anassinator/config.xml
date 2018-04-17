@@ -254,7 +254,7 @@
         </entry>
         <entry>
           <string>compsys/PR-104</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/sync-init</string>
