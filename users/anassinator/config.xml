@@ -106,7 +106,7 @@
         </entry>
         <entry>
           <string>compsys/yapf</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/PR-128</string>
