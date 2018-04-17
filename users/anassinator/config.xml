@@ -142,7 +142,7 @@
         </entry>
         <entry>
           <string>compsys/hostname</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/PR-432</string>
