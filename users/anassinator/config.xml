@@ -253,6 +253,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/PR-104</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/sync-init</string>
           <boolean>false</boolean>
         </entry>
