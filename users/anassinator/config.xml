@@ -202,7 +202,7 @@
         </entry>
         <entry>
           <string>rover/dev</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/shellcheck</string>
