@@ -343,7 +343,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwnb9agXgu3aNlRE0fjUKuONBvOhZt80yHrBcpiP1NQ7PIeRs6wxV64FJHRVjLRUXq+1OSStkqOmEl46wW59lyog==}</accessToken>
+      <accessToken>{AQAAABAAAAAw+YYnOX09nfyflRDuhcnPQxVDeNKoqcZ48YqlNbgIMHSjZJt/nPBqWHcsiGBXM7hcvjMM3pD7xZATdGO26Z1L0Q==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
