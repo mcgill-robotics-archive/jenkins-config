@@ -305,6 +305,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/shellcheck-directive</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/toc</string>
           <boolean>false</boolean>
         </entry>
