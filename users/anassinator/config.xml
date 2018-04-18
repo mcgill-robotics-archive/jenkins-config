@@ -125,6 +125,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/PR-129</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/params</string>
           <boolean>false</boolean>
         </entry>
