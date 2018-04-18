@@ -336,6 +336,10 @@
           <string>ros-tritech-micron/package-2</string>
           <boolean>false</boolean>
         </entry>
+        <entry>
+          <string>tools.sh/shellcheck-directive</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
