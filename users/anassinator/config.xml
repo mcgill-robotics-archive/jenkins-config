@@ -89,11 +89,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/PR-3</string>
+          <string>drone/PR-436</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-436</string>
+          <string>ros-web-image-view/PR-3</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -359,7 +359,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwxXTHNTGmLG/FdEp231vk8iXZYgcbTgEh9pA4PwRLueKqlzm5SnECqPUfM1QRrtc+xI3CfNGStpzpaHjTYMI3ow==}</accessToken>
+      <accessToken>{AQAAABAAAAAwkGtesdc2LAKJHYq/DBHSW7Tv3mphbtpv0sAVQOGXm07+KLQghAu0Dro2YTpAqEQlDFhvN8euuCkmlrXaLy3TiQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
