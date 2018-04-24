@@ -122,7 +122,7 @@
         </entry>
         <entry>
           <string>compsys/simplify-vimrc</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/PR-6</string>
