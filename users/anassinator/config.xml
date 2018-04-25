@@ -77,6 +77,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/docs</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/gooney3-offline-interop</string>
           <boolean>false</boolean>
         </entry>
@@ -89,11 +93,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/PR-3</string>
+          <string>drone/PR-436</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-436</string>
+          <string>ros-web-image-view/PR-3</string>
           <boolean>false</boolean>
         </entry>
         <entry>
