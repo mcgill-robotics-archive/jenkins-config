@@ -309,6 +309,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/pipenv</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/status-text</string>
           <boolean>false</boolean>
         </entry>
