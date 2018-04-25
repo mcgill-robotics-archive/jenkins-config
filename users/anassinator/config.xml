@@ -372,6 +372,10 @@
           <string>tools.sh/shellcheck-directive</string>
           <boolean>false</boolean>
         </entry>
+        <entry>
+          <string>drone/gh-pages</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
