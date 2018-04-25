@@ -70,7 +70,7 @@
         </entry>
         <entry>
           <string>drone/remove-dev</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-web-image-view/package-2</string>
