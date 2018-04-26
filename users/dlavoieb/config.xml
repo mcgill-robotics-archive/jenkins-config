@@ -37,11 +37,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwE6Qp2EClKl1cycA13N+aDF/dqyp9XnaUjW1aLFrny6jTKqKNWKfCEU+D8vRR4NmHnbE3rprgOeHhVED6RFBOzw==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>d.lavoie.boutin@me.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwCKr1a5+7sxi5e9ckPiI9sxvElHr5rbweBb95rT6WZLHvAGxayUAPfNoKZRy5VQRyExnf7xxHvpdAdRkiXvo+GA==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
