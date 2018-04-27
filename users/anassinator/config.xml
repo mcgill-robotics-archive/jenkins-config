@@ -65,11 +65,11 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-interop-frontend/master</string>
+          <string>drone/remove-dev</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/remove-dev</string>
+          <string>ros-interop-frontend/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -97,11 +97,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>tools.sh/sync-https</string>
+          <string>drone/PR-440</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-440</string>
+          <string>tools.sh/sync-https</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -407,7 +407,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwFc/dvQFZnM7GOlY8cEvsyJOTtOldru2I6BEi88WVhK3y+MgNZrRmxcDSJK15w1gfn+qhSYg/miH+x+vFJyywGA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwPLbtRjnr2blblzYp+osmMhS8vhYYUqcl6kbIdW71B9fiaHqFobzP1a+Vh/g0isO2VM90QwOsJIB1/dQmKKnUGA==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
