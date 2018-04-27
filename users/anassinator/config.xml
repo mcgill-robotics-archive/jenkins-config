@@ -318,7 +318,7 @@
         </entry>
         <entry>
           <string>compsys/pipenv</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/status-text</string>
