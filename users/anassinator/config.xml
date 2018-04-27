@@ -65,10 +65,6 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/remove-dev</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-interop-frontend/master</string>
           <boolean>false</boolean>
         </entry>
@@ -77,43 +73,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/docs</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/gooney3-offline-interop</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-readmes</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-441</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-440</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/sync-https</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-web-image-view/PR-3</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-436</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-434</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -129,18 +93,6 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-439</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-438</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-437</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>compsys/simplify-vimrc</string>
           <boolean>false</boolean>
         </entry>
@@ -149,24 +101,16 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/baudrate</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>compsys/PR-129</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/params</string>
-          <boolean>false</boolean>
+          <string>drone/master</string>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-interop/master</string>
           <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-warning-offboard</string>
-          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/master</string>
@@ -181,36 +125,8 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-432</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-431</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>Firmware/master</string>
           <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/dev</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-430</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-424</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/offboard-params</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-423</string>
-          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/steering-gain</string>
@@ -218,10 +134,6 @@
         </entry>
         <entry>
           <string>ros-interop/download-mission-environ</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-429</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -233,15 +145,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/shellcheck</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-tritech-micron/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-420</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -265,19 +169,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/update-submodules</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/PR-1</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-418</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-417</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -285,16 +177,8 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-416</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/master</string>
           <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-419</string>
-          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-storm32-gimbal/PR-3</string>
@@ -309,14 +193,6 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/tools.sh</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-readme</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>compsys/pipenv</string>
           <boolean>false</boolean>
         </entry>
@@ -326,18 +202,6 @@
         </entry>
         <entry>
           <string>ros-interop/offline</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/statustext</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/mission-statustext-fix</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/update-interop</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -354,10 +218,6 @@
         </entry>
         <entry>
           <string>ros-interop/PR-62</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/shellcheck-directive</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -398,10 +258,6 @@
         </entry>
         <entry>
           <string>tools.sh/shellcheck-directive</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/gh-pages</string>
           <boolean>false</boolean>
         </entry>
       </data>
