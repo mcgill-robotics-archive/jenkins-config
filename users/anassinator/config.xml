@@ -65,11 +65,11 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-interop-frontend/master</string>
+          <string>drone/remove-dev</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/remove-dev</string>
+          <string>ros-interop-frontend/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -93,19 +93,19 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>tools.sh/sync-https</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-440</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-436</string>
+          <string>tools.sh/sync-https</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-web-image-view/PR-3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-436</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -323,6 +323,10 @@
         <entry>
           <string>ros-interop/offline</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/statustext</string>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/mission-statustext-fix</string>
