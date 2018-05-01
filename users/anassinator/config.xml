@@ -73,6 +73,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/PR-442</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/sync-https</string>
           <boolean>false</boolean>
         </entry>
