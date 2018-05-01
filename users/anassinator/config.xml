@@ -98,7 +98,7 @@
         </entry>
         <entry>
           <string>compsys/remove-pipenv3</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/simplify-vimrc</string>
