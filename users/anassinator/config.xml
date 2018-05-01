@@ -166,7 +166,7 @@
         </entry>
         <entry>
           <string>drone/python2-docs</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/PR-11</string>
