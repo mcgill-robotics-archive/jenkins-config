@@ -17,6 +17,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/PR-446</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Firmware/offboard</string>
           <boolean>true</boolean>
         </entry>
