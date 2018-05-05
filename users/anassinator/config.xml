@@ -266,7 +266,7 @@
         </entry>
         <entry>
           <string>drone/PR-444</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-teensy/master</string>
