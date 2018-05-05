@@ -106,7 +106,7 @@
         </entry>
         <entry>
           <string>drone/update-tf</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/PR-6</string>
