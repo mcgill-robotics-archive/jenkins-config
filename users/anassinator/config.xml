@@ -154,7 +154,7 @@
         </entry>
         <entry>
           <string>drone/fix-init</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/shellcheck-directive</string>
