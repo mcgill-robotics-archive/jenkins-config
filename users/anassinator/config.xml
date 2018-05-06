@@ -198,7 +198,7 @@
         </entry>
         <entry>
           <string>drone/gooney4</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/master</string>
