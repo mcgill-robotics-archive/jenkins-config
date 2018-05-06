@@ -285,6 +285,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/PR-449</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-teensy/master</string>
           <boolean>false</boolean>
         </entry>
