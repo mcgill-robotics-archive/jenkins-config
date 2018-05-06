@@ -130,7 +130,7 @@
         </entry>
         <entry>
           <string>compsys/master</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/hostname</string>
