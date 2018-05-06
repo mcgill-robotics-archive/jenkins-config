@@ -285,6 +285,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/PR-448</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/obstacle-tracker</string>
           <boolean>false</boolean>
         </entry>
