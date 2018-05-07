@@ -25,6 +25,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/cv_yolo</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/PR-359</string>
           <boolean>true</boolean>
         </entry>
