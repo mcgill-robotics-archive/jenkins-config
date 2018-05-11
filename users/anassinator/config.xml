@@ -65,11 +65,11 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-interop-frontend/master</string>
+          <string>drone/viz</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/viz</string>
+          <string>ros-interop-frontend/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -89,19 +89,19 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-interop-frontend/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-storm32-gimbal/master</string>
+          <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/remove-pipenv3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -315,7 +315,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw+tbMIg4ILOIDfhc2zyF/DxW5EMRNnwSFubbDi7uYkKSKWWhpbl8feoREENPxaJF5kodUmnXCmzRiEvDNASvJxg==}</accessToken>
+      <accessToken>{AQAAABAAAAAwMHZvKFsfio8tsTbqw+nfHmXZqpTOXAmhPmcsPZhAqTVzQ/gHdah/zp+uw0VkC/gOKN1YIopuq6La3biQ8HBIaQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
