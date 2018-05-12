@@ -45,6 +45,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>rover/feature%2Fvisual_odometry</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-dcdc-nuc/update_readme</string>
           <boolean>true</boolean>
         </entry>
