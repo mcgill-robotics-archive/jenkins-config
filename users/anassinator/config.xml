@@ -146,7 +146,7 @@
         </entry>
         <entry>
           <string>drone/fix-stationary-obstacles</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/download-mission-environ</string>
