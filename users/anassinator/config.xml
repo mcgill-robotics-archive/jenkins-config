@@ -165,6 +165,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/splines</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-tritech-micron/master</string>
           <boolean>false</boolean>
         </entry>
