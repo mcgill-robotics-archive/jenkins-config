@@ -170,7 +170,7 @@
         </entry>
         <entry>
           <string>drone/splines</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/master</string>
