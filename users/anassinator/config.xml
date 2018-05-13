@@ -322,7 +322,7 @@
         </entry>
         <entry>
           <string>drone/mission-info-viz</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/obstacle-tracker</string>
