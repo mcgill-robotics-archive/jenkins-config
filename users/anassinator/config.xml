@@ -261,6 +261,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-storm32-gimbal/stow</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-453</string>
           <boolean>false</boolean>
         </entry>
