@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/planner-test-changes</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/tf_fix</string>
           <boolean>true</boolean>
         </entry>
