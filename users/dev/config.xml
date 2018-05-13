@@ -56,6 +56,10 @@
           <string>drone/PR-421</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>drone/fix-symlink</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <hudson.model.MyViewsProperty>
