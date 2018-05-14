@@ -85,6 +85,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-459</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>rover/feature%2Fvisual_odometry</string>
           <boolean>true</boolean>
         </entry>
