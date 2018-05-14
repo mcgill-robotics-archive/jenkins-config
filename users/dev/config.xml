@@ -92,6 +92,10 @@
           <string>drone/fix-symlink</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>drone/stow</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <hudson.model.MyViewsProperty>
