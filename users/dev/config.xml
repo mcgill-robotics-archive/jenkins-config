@@ -17,27 +17,7 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-leddar/rosdep</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/topics</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/offboard_ctl_script</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/jpeg</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>ros-dcdc-nuc/PR-4</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/mux</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -54,18 +34,6 @@
         </entry>
         <entry>
           <string>drone/PR-421</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-454</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-425</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix_sim_deps</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -89,10 +57,6 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-428</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-459</string>
           <boolean>true</boolean>
         </entry>
@@ -102,6 +66,46 @@
         </entry>
         <entry>
           <string>drone/fix-symlink</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/rosdep</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/topics</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/pool_may_13</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/jpeg</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-dcdc-nuc/PR-4</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/mux</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-454</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix_sim_deps</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-425</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-428</string>
           <boolean>true</boolean>
         </entry>
         <entry>
