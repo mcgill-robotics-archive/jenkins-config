@@ -65,11 +65,11 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-interop-frontend/master</string>
+          <string>drone/viz</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/viz</string>
+          <string>ros-interop-frontend/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -93,19 +93,19 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-interop-frontend/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-storm32-gimbal/master</string>
+          <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/remove-pipenv3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -371,6 +371,10 @@
         <entry>
           <string>tools.sh/shellcheck-directive</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/docs-deps</string>
+          <boolean>true</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
