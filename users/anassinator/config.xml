@@ -161,6 +161,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/PR-466</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-init</string>
           <boolean>false</boolean>
         </entry>
