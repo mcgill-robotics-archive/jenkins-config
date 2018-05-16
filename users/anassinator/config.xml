@@ -349,6 +349,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/update-planner</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/obstacle-tracker</string>
           <boolean>false</boolean>
         </entry>
