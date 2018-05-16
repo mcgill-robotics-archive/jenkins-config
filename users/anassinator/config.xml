@@ -350,7 +350,7 @@
         </entry>
         <entry>
           <string>drone/update-planner</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/obstacle-tracker</string>
