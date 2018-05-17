@@ -350,7 +350,7 @@
         </entry>
         <entry>
           <string>compsys/rm-aliases</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/PR-144</string>
