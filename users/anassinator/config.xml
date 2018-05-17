@@ -65,35 +65,7 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
       <data class="concurrent-hash-map">
         <entry>
-          <string>ros-interop-frontend/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/viz</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-web-image-view/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>compsys/update-dir</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-viz</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-442</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/sync-https</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-web-image-view/PR-3</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -101,35 +73,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-interop-frontend/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-storm32-gimbal/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/remove-pipenv3</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/bag</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/simplify-vimrc</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/update-tf</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-tritech-micron/PR-6</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-129</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -141,16 +89,8 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>ros-interop/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>compsys/clean-up-deps</string>
           <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/master</string>
-          <boolean>true</boolean>
         </entry>
         <entry>
           <string>compsys/hostname</string>
@@ -161,23 +101,15 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>Firmware/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/fix-stationary-obstacles</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/zsh-virtualenv</string>
-          <boolean>false</boolean>
+          <string>Firmware/master</string>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/PR-468</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/download-mission-environ</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -189,43 +121,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/bag-error</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-init</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/shellcheck-directive</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>rover/dev</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/splines</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-461</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/remove-python3</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-tritech-micron/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-web-image-view/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/PR-10</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -233,40 +129,16 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-463</string>
+          <string>ros-leddar/PR-10</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/PR-11</string>
           <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-462</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-3</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-142</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-141</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-1</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-143</string>
-          <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-interop/PR-64</string>
@@ -281,16 +153,8 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/PR-140</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/master</string>
           <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/viz-docs</string>
-          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-storm32-gimbal/PR-3</string>
@@ -305,19 +169,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/pipenv</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>Firmware/status-text</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-interop/offline</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-450</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -345,6 +197,178 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>ros-interop/package-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-dcdc-nuc/package-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-teensy/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/obstacle-tracker</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/shellcheck-directive</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop-frontend/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/viz</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/package-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-viz</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-442</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/sync-https</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/PR-3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop-frontend/package-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/remove-pipenv3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/bag</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/simplify-vimrc</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/update-tf</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-129</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>compsys/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>compsys/zsh-virtualenv</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/download-mission-environ</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/bag-error</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-init</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/shellcheck-directive</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/splines</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-461</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/remove-python3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-tritech-micron/master</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-463</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-462</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-3</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-142</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-2</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-141</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-1</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/rm-aliases</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-143</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-140</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/viz-docs</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/pipenv</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-interop/offline</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-450</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-453</string>
           <boolean>false</boolean>
         </entry>
@@ -369,10 +393,6 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-interop/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>compsys/PR-133</string>
           <boolean>false</boolean>
         </entry>
@@ -390,14 +410,6 @@
         </entry>
         <entry>
           <string>drone/PR-449</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-teensy/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-dcdc-nuc/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -421,15 +433,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/obstacle-tracker</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>ros-tritech-micron/package-2</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/shellcheck-directive</string>
           <boolean>false</boolean>
         </entry>
         <entry>
