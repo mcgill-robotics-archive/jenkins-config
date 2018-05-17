@@ -134,7 +134,7 @@
         </entry>
         <entry>
           <string>compsys/zsh-cursor-fix</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/master</string>
