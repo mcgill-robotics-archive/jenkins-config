@@ -365,6 +365,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/PR-146</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/PR-145</string>
           <boolean>true</boolean>
         </entry>
