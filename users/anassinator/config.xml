@@ -165,6 +165,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/zsh-virtualenv</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-468</string>
           <boolean>false</boolean>
         </entry>
