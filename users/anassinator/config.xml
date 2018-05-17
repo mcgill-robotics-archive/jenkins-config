@@ -78,7 +78,7 @@
         </entry>
         <entry>
           <string>compsys/update-dir</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-viz</string>
