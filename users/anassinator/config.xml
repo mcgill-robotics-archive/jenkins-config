@@ -141,6 +141,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>compsys/clean-up-deps</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/master</string>
           <boolean>true</boolean>
         </entry>
