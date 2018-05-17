@@ -225,6 +225,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/fix-dir</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-web-image-view/package-2</string>
           <boolean>false</boolean>
         </entry>
