@@ -129,6 +129,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/zsh-cursor-fix</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/master</string>
           <boolean>true</boolean>
         </entry>
