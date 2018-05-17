@@ -113,6 +113,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/bag</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/simplify-vimrc</string>
           <boolean>false</boolean>
         </entry>
