@@ -214,7 +214,7 @@
         </entry>
         <entry>
           <string>compsys/remove-python3</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/master</string>
