@@ -189,6 +189,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>compsys/remove-python3</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-tritech-micron/master</string>
           <boolean>false</boolean>
         </entry>
