@@ -157,6 +157,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop/PR-65</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/PR-64</string>
           <boolean>false</boolean>
         </entry>
