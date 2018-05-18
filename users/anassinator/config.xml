@@ -149,6 +149,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/rviz-satellite</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/python2-docs</string>
           <boolean>false</boolean>
         </entry>
