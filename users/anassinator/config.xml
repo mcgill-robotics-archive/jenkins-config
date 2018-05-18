@@ -350,7 +350,7 @@
         </entry>
         <entry>
           <string>drone/interop</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/master</string>
