@@ -241,6 +241,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/gimbal-tf</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-web-image-view/package-2</string>
           <boolean>false</boolean>
         </entry>
