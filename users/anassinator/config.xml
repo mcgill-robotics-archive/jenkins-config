@@ -382,7 +382,7 @@
         </entry>
         <entry>
           <string>ros-interop/stamp-mission</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/PR-1</string>
