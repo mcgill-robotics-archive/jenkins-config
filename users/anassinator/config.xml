@@ -402,7 +402,7 @@
         </entry>
         <entry>
           <string>drone/fix-flyzone-color</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/PR-2</string>
