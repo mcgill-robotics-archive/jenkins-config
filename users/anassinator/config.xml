@@ -397,6 +397,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/fix-flyzone-color</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/PR-2</string>
           <boolean>false</boolean>
         </entry>
