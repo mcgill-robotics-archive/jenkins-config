@@ -177,6 +177,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/flyzone-top</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/PR-65</string>
           <boolean>false</boolean>
         </entry>
