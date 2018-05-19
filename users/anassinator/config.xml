@@ -393,6 +393,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/plane-path</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/PR-3</string>
           <boolean>false</boolean>
         </entry>
