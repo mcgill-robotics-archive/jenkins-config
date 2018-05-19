@@ -97,6 +97,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/depth</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix_sim_deps</string>
           <boolean>true</boolean>
         </entry>
