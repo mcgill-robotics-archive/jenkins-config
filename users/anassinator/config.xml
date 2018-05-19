@@ -325,6 +325,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/state-label</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-viz</string>
           <boolean>false</boolean>
         </entry>
