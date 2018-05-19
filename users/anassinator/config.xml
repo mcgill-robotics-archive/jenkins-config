@@ -90,7 +90,7 @@
         </entry>
         <entry>
           <string>drone/PR-478</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/package-2</string>
