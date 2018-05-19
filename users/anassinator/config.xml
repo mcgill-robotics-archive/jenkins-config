@@ -229,6 +229,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/planner-viz</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/sync-init</string>
           <boolean>false</boolean>
         </entry>
