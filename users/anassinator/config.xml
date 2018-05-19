@@ -209,6 +209,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/symlink-rviz</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/master</string>
           <boolean>true</boolean>
         </entry>
