@@ -318,7 +318,7 @@
         </entry>
         <entry>
           <string>drone/wp-text</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/gimbal-tf</string>
