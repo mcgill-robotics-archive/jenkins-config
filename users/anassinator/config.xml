@@ -430,7 +430,7 @@
         </entry>
         <entry>
           <string>drone/plane-path</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/PR-3</string>
