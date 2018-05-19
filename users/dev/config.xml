@@ -61,6 +61,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/pool_test_05_19</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>rover/feature%2Fvisual_odometry</string>
           <boolean>true</boolean>
         </entry>
