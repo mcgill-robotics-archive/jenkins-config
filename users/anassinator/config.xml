@@ -385,6 +385,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/viz-deps</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/master</string>
           <boolean>true</boolean>
         </entry>
