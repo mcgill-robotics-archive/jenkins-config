@@ -262,7 +262,7 @@
         </entry>
         <entry>
           <string>drone/gsc-url</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>Firmware/status-text</string>
