@@ -150,7 +150,7 @@
         </entry>
         <entry>
           <string>tools.sh/track-submodules</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/PR-476</string>
