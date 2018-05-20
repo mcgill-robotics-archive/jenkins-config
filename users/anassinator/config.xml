@@ -333,6 +333,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/rviz-hud</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-viz</string>
           <boolean>false</boolean>
         </entry>
