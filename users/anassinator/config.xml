@@ -77,11 +77,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/update-dir</string>
+          <string>drone/PR-481</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-481</string>
+          <string>compsys/update-dir</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -101,11 +101,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/package-2</string>
+          <string>drone/PR-477</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-477</string>
+          <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -157,7 +157,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/fix-stationary-obstacles</string>
+          <string>drone/PR-474</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -165,7 +165,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-474</string>
+          <string>drone/fix-stationary-obstacles</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -181,11 +181,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>Firmware/steering-gain</string>
+          <string>drone/PR-466</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-466</string>
+          <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -197,7 +197,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/python2-docs</string>
+          <string>ros-web-image-view/master</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -205,15 +205,15 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>ros-leddar/PR-11</string>
+          <string>drone/python2-docs</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/flyzone-top</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-leddar/PR-11</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -603,7 +603,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw3UQ3luXYr9GGkCgGmcHA8B506OAdHtqiiaTzOhZU7SuzAKRtysUGsOYF1NGZUPdPI/2Hmr9H4MlfTxRztaVXWw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwgakqcIMB/km7xx15WU3h72urXK9s1sfPyuhjVGera4ap39pEspgTATAzKDNgY4s1iOIJZqu/y3cZpdpIsORdHw==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
