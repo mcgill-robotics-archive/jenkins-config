@@ -390,7 +390,7 @@
         </entry>
         <entry>
           <string>drone/viz-deps</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/master</string>
