@@ -198,7 +198,7 @@
         </entry>
         <entry>
           <string>ros-interop/altitude</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>rover/dev</string>
