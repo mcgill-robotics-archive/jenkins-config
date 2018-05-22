@@ -14,14 +14,14 @@
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
-    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
+    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
           <string>drone/offboard_ctl_script</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-460</string>
+          <string>drone/stow-on-ground</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -29,15 +29,19 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-460</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-dcdc-nuc/update_readme</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-421</string>
+          <string>drone/PR-487</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-487</string>
+          <string>drone/PR-421</string>
           <boolean>true</boolean>
         </entry>
         <entry>
