@@ -62,7 +62,7 @@
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.2">
       <autofavoriteEnabled>true</autofavoriteEnabled>
     </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
-    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
+    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
           <string>drone/complete-tf</string>
@@ -77,11 +77,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/update-dir</string>
+          <string>drone/PR-481</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-481</string>
+          <string>compsys/update-dir</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -105,11 +105,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/package-2</string>
+          <string>drone/PR-477</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-477</string>
+          <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -165,7 +165,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/fix-stationary-obstacles</string>
+          <string>drone/PR-474</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -173,7 +173,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-474</string>
+          <string>drone/fix-stationary-obstacles</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -189,11 +189,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>Firmware/steering-gain</string>
+          <string>drone/PR-466</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-466</string>
+          <string>Firmware/steering-gain</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -631,7 +631,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwj7ULJCzJuPY8+t/cMjzRWVhwrMowdjwoD5wf7aKSndgCukrflD4az5jf+uFjmfpUkJQTWBgkN1U43YgNYA+mVg==}</accessToken>
+      <accessToken>{AQAAABAAAAAwof/YDfuydy4f6u0P6C/y3Lhs2z5eYLCDqAmg2cQJzsMUxRUazWblR2UEkJo5Ce2uZvPr8jFZcIxPVYEnEcR0dg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
