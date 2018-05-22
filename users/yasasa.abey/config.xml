@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-490</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/change-planner-interface</string>
           <boolean>true</boolean>
         </entry>
