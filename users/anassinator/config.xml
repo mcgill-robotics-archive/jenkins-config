@@ -250,7 +250,7 @@
         </entry>
         <entry>
           <string>ros-interop/PR-66</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/master</string>
