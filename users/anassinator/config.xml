@@ -549,6 +549,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/update-gimbal</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/PR-146</string>
           <boolean>false</boolean>
         </entry>
