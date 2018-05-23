@@ -129,6 +129,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/tf-error</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/clean-up-deps</string>
           <boolean>false</boolean>
         </entry>
