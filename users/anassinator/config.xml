@@ -453,6 +453,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/mission-generation</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/viz-deps</string>
           <boolean>false</boolean>
         </entry>
