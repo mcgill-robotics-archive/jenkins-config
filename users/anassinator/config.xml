@@ -226,7 +226,7 @@
         </entry>
         <entry>
           <string>drone/ground-fix</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/PR-11</string>
