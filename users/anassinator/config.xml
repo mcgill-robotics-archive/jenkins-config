@@ -454,7 +454,7 @@
         </entry>
         <entry>
           <string>drone/mission-generation</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/viz-deps</string>
