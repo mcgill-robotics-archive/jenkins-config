@@ -290,7 +290,7 @@
         </entry>
         <entry>
           <string>drone/PR-494</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-dcdc-nuc/PR-5</string>
