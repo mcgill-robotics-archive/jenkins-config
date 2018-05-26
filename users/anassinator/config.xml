@@ -414,7 +414,7 @@
         </entry>
         <entry>
           <string>drone/altitude</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>tools.sh/sync-https</string>
