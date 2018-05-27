@@ -14,14 +14,18 @@
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
-    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
+    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>auv/feature%2FextremeRepoReconstructionChallenge</string>
+          <string>auv/PR-376</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>auv/PR-375</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/feature%2FextremeRepoReconstructionChallenge</string>
           <boolean>true</boolean>
         </entry>
       </data>
