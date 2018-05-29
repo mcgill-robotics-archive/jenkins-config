@@ -77,11 +77,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/update-dir</string>
+          <string>drone/PR-481</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-481</string>
+          <string>compsys/update-dir</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -105,11 +105,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-leddar/package-2</string>
+          <string>drone/PR-477</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-477</string>
+          <string>ros-leddar/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -687,7 +687,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwJRAOjgVZyAEQ6iWxAjgGOnhUWRkmoTqkDT1tpcSFrTduI4vqV7kUb6N2HuvQK3GDI0Swjxq3j8X+2UspbZIbJg==}</accessToken>
+      <accessToken>{AQAAABAAAAAwWAe65y/BJxLvBj+VhdHkA53o7DLnGpKxHjCDwtVyKD9Nj98Vjdvj696h6XPJHfylGcfIAZVSc58qYS3Vnsfarg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
