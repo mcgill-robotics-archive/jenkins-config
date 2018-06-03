@@ -65,6 +65,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/mavros_obstacle</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/complete-tf</string>
           <boolean>false</boolean>
         </entry>
