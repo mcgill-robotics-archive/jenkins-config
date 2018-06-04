@@ -17,11 +17,7 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/PR-496</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-495</string>
+          <string>drone/PR-500</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -30,6 +26,14 @@
         </entry>
         <entry>
           <string>drone/add_moving_obstacle_avoidance</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-496</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-495</string>
           <boolean>true</boolean>
         </entry>
       </data>
