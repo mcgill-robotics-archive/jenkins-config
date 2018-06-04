@@ -69,6 +69,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/add-visualization-msg-deps</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/complete-tf</string>
           <boolean>false</boolean>
         </entry>
