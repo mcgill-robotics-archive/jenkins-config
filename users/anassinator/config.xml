@@ -218,7 +218,7 @@
         </entry>
         <entry>
           <string>drone/servers-mux</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/rviz-satellite</string>
