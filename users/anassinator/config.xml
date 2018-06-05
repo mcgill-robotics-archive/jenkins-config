@@ -493,6 +493,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/update-submodule</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/master</string>
           <boolean>true</boolean>
         </entry>
