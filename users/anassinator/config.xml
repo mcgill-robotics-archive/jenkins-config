@@ -242,7 +242,7 @@
         </entry>
         <entry>
           <string>ros-web-image-view/master</string>
-          <boolean>false</boolean>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/ground-fix</string>
