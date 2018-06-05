@@ -581,6 +581,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/update-submodules</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/PR-143</string>
           <boolean>false</boolean>
         </entry>
