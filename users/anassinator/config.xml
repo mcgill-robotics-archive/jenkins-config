@@ -421,6 +421,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/web-video-server</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/fix-dir</string>
           <boolean>false</boolean>
         </entry>
