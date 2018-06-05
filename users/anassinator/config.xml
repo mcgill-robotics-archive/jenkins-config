@@ -93,11 +93,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-480</string>
+          <string>drone/cw-nav</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/cw-nav</string>
+          <string>drone/PR-480</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -395,6 +395,10 @@
         <entry>
           <string>drone/viz</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>ros-web-image-view/compressed</string>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>compsys/fix-dir</string>
