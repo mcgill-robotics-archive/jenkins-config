@@ -513,6 +513,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/disable-hud</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/splines</string>
           <boolean>false</boolean>
         </entry>
