@@ -389,6 +389,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/local-obstacle-predictions</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/package-2</string>
           <boolean>false</boolean>
         </entry>
