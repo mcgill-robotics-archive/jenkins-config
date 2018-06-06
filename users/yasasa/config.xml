@@ -37,6 +37,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/fix-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-496</string>
           <boolean>true</boolean>
         </entry>
