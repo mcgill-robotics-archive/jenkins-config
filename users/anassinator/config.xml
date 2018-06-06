@@ -565,6 +565,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/fix-gimbal-stowing</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/shellcheck-directive</string>
           <boolean>false</boolean>
         </entry>
