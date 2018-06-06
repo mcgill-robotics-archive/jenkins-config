@@ -521,6 +521,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/web-image-view</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/zsh-virtualenv</string>
           <boolean>false</boolean>
         </entry>
