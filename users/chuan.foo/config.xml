@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/cw-mission</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/fix-clone</string>
           <boolean>true</boolean>
         </entry>
