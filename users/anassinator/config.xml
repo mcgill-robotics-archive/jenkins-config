@@ -574,7 +574,7 @@
         </entry>
         <entry>
           <string>drone/calibration</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-init</string>
