@@ -29,11 +29,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-460</string>
+          <string>drone/fix-visualization-depends</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/fix-visualization-depends</string>
+          <string>drone/PR-460</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -70,6 +70,10 @@
         </entry>
         <entry>
           <string>drone/testing_04_08</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/nameerror</string>
           <boolean>true</boolean>
         </entry>
         <entry>
