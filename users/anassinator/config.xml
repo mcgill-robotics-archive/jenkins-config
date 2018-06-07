@@ -266,7 +266,7 @@
         </entry>
         <entry>
           <string>ros-interop/stamped-compass</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/servers-mux</string>
