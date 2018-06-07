@@ -426,7 +426,7 @@
         </entry>
         <entry>
           <string>drone/fix-deps</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/static-home</string>
