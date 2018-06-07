@@ -538,7 +538,7 @@
         </entry>
         <entry>
           <string>drone/update-submodule</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/master</string>
