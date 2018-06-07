@@ -25,6 +25,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/attribute</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/PR-135</string>
           <boolean>true</boolean>
         </entry>
