@@ -590,7 +590,7 @@
         </entry>
         <entry>
           <string>drone/disable-hud</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/splines</string>
