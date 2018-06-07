@@ -710,7 +710,7 @@
         </entry>
         <entry>
           <string>drone/update-interop</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/tf</string>
