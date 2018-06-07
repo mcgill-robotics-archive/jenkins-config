@@ -17,11 +17,27 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/add-offboard-takeoff</string>
+          <string>drone/fix-obstacle-cost</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/fix-obstacle-cost</string>
+          <string>drone/fix-offboard-interface</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-496</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-495</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/add-offboard-takeoff</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -45,19 +61,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/fix-offboard-interface</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-offboard-takeoff</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-496</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-495</string>
+          <string>drone/PR-519</string>
           <boolean>true</boolean>
         </entry>
       </data>
