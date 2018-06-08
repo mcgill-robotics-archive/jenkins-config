@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/sitl-mux</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-visualization-depends</string>
           <boolean>true</boolean>
         </entry>
