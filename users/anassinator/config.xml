@@ -557,6 +557,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/fix-nan-tf</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/master</string>
           <boolean>true</boolean>
         </entry>
