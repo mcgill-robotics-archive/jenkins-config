@@ -565,6 +565,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/encapsulated</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>tools.sh/master</string>
           <boolean>true</boolean>
         </entry>
