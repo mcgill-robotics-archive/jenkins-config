@@ -161,6 +161,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/fix-statustext-length</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/master</string>
           <boolean>true</boolean>
         </entry>
