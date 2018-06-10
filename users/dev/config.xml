@@ -177,6 +177,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/udev</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-529</string>
           <boolean>true</boolean>
         </entry>
