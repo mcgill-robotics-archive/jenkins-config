@@ -702,7 +702,7 @@
         </entry>
         <entry>
           <string>drone/fix-nan-tf</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/master</string>
