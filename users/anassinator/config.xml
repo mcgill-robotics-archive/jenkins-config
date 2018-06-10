@@ -722,7 +722,7 @@
         </entry>
         <entry>
           <string>drone/fix-gimbal-tf</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/download-mission-environ</string>
