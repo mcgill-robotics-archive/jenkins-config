@@ -14,7 +14,7 @@
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
-    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.1">
+    <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
           <string>auv/PR-372</string>
@@ -30,6 +30,10 @@
         </entry>
         <entry>
           <string>auv/setup%2Ftmuxinator</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/interop_frontend_image_changes</string>
           <boolean>true</boolean>
         </entry>
         <entry>
