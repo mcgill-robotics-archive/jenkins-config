@@ -102,7 +102,7 @@
         </entry>
         <entry>
           <string>drone/fix-statustext-length</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/clean-up-deps</string>
