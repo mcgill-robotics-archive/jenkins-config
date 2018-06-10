@@ -785,6 +785,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/throttle-telem</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/update-gimbal</string>
           <boolean>false</boolean>
         </entry>
