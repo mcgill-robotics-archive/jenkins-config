@@ -433,6 +433,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop-frontend/remove_directory_load</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-484</string>
           <boolean>false</boolean>
         </entry>
