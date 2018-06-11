@@ -257,6 +257,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/rviz_altitude</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop-frontend/package-2</string>
           <boolean>false</boolean>
         </entry>
