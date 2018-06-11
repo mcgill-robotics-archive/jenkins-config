@@ -461,6 +461,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop/notification</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/shutter-speed</string>
           <boolean>false</boolean>
         </entry>
