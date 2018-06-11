@@ -533,6 +533,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop/no-moving-obstacles</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/stamped-compass</string>
           <boolean>false</boolean>
         </entry>
