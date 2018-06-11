@@ -93,6 +93,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-534</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-459</string>
           <boolean>true</boolean>
         </entry>
