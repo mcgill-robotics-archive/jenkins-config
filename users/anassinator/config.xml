@@ -309,6 +309,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/fix-comment</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-init</string>
           <boolean>false</boolean>
         </entry>
