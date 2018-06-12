@@ -433,6 +433,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/camera-param-bag</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/add-visualization-msg-deps</string>
           <boolean>false</boolean>
         </entry>
