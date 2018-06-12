@@ -374,7 +374,7 @@
         </entry>
         <entry>
           <string>drone/consolidate-topics</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/PR-146</string>
