@@ -478,7 +478,7 @@
         </entry>
         <entry>
           <string>ros-interop-frontend/remove_directory_load</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/PR-484</string>
