@@ -797,6 +797,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/PR-543</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/bag-error</string>
           <boolean>false</boolean>
         </entry>
