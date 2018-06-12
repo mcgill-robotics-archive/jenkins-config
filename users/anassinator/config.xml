@@ -410,7 +410,7 @@
         </entry>
         <entry>
           <string>drone/mavlink-queue-size</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/update-planner</string>
