@@ -594,7 +594,7 @@
         </entry>
         <entry>
           <string>ros-interop/PR-70</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-leddar/PR-11</string>
