@@ -602,7 +602,7 @@
         </entry>
         <entry>
           <string>ros-interop/PR-69</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-interop/PR-68</string>
