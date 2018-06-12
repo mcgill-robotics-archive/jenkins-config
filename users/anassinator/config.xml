@@ -310,7 +310,7 @@
         </entry>
         <entry>
           <string>drone/fix-comment</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-init</string>
