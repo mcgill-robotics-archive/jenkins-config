@@ -923,7 +923,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwe1hIWVFxhGWo3Yr4tKKJMv7ogdmTdWR4+U+Q1R3BrxQyMsrXDQ2AalvSjRaAvI1JuiMGMHq8nETYGJc4G/bpIw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwszK+Tsw9479GVP+k0Avs2Amn7p2VqxuyvKzkWSNWSGPYZwji15W+pFUuXyA8bQJvsvQMI7506/swcoZkZpsIwg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
