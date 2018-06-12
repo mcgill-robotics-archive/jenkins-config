@@ -801,6 +801,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-544</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/bag-error</string>
           <boolean>false</boolean>
         </entry>
