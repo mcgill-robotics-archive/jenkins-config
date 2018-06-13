@@ -173,6 +173,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/fix-planner-launch</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/python2-docs</string>
           <boolean>false</boolean>
         </entry>
