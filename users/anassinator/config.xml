@@ -297,6 +297,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/aero-term</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/update-tf</string>
           <boolean>false</boolean>
         </entry>
