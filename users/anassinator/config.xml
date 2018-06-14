@@ -802,7 +802,7 @@
         </entry>
         <entry>
           <string>drone/PR-547</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-gimbal-tf</string>
