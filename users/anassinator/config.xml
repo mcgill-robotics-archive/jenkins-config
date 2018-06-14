@@ -939,7 +939,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwsNa28z5BX5XgvpRPsmF0IooOyAbpIWtXr87Ks8qMnUzTG+2/M4JPxds7nwYbWrZEDXokbh2PGBlftkbKLWYDwg==}</accessToken>
+      <accessToken>{AQAAABAAAAAwzeuUufEnSpnGVxtw72X7dVj8qHNfDnpQsZ2qb0GqDPjJsX4AahA7gvspa+Q1e1LVHwloEESkgFjXnTtzf/O5eQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
