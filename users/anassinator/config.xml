@@ -821,6 +821,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-549</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>ros-interop/download-mission-environ</string>
           <boolean>false</boolean>
         </entry>
