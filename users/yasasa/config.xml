@@ -21,6 +21,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/add-airdrop</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-offboard-interface</string>
           <boolean>true</boolean>
         </entry>
