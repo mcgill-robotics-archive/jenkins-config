@@ -397,6 +397,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-interop-frontend/notification</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/tf</string>
           <boolean>false</boolean>
         </entry>
