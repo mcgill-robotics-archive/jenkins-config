@@ -69,6 +69,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>drone/update-interop-frontend</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/update-dir</string>
           <boolean>false</boolean>
         </entry>
