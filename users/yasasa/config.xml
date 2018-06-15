@@ -25,15 +25,39 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/fix-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/add-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-539</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/add-moving-obstacle-avoidance</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-511</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-512</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-519</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-offboard-interface</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/fix-wiggle</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-offboard-takeoff</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -49,10 +73,6 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-offboard-takeoff</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-525</string>
           <boolean>true</boolean>
         </entry>
@@ -61,19 +81,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-539</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/add-moving-obstacle-avoidance</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-500</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-511</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -81,11 +89,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-flyzone-cost</string>
+          <string>drone/revert-553-multimaster_list</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-512</string>
+          <string>drone/add-flyzone-cost</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -102,10 +110,6 @@
         </entry>
         <entry>
           <string>drone/PR-546</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-519</string>
           <boolean>true</boolean>
         </entry>
       </data>
