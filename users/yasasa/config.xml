@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/inc-survey-altitude</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/add-offboard-takeoff</string>
           <boolean>true</boolean>
         </entry>
