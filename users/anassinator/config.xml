@@ -801,6 +801,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-550</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/web-image-view</string>
           <boolean>false</boolean>
         </entry>
