@@ -89,6 +89,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/multimaster_list</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/add_moving_obstacle_avoidance</string>
           <boolean>true</boolean>
         </entry>
