@@ -818,7 +818,7 @@
         </entry>
         <entry>
           <string>drone/PR-550</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/web-image-view</string>
