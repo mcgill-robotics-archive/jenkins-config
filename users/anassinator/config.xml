@@ -786,7 +786,7 @@
         </entry>
         <entry>
           <string>drone/PR-558</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/remove-pipenv3</string>
