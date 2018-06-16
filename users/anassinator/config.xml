@@ -98,7 +98,7 @@
         </entry>
         <entry>
           <string>drone/mux-fix</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-tritech-micron/PR-6</string>
