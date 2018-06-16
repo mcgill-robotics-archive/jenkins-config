@@ -65,12 +65,12 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/mavros_obstacle</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/update-interop-frontend</string>
           <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/mavros_obstacle</string>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/update-dir</string>
@@ -105,11 +105,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/zsh-cursor-fix</string>
+          <string>drone/fix-statustext-length</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/fix-statustext-length</string>
+          <string>compsys/zsh-cursor-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -153,11 +153,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-508</string>
+          <string>drone/mux-config</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/mux-config</string>
+          <string>drone/PR-508</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -189,11 +189,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/python2-docs</string>
+          <string>drone/ground-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/ground-fix</string>
+          <string>drone/python2-docs</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -241,11 +241,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/local-obstacle-predictions</string>
+          <string>drone/PR-526</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-526</string>
+          <string>drone/local-obstacle-predictions</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -269,7 +269,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/viz</string>
+          <string>drone/web-video-server</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -277,7 +277,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/web-video-server</string>
+          <string>drone/viz</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -289,11 +289,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/package-2</string>
+          <string>drone/rviz_altitude</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/rviz_altitude</string>
+          <string>ros-web-image-view/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -975,7 +975,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwzeuUufEnSpnGVxtw72X7dVj8qHNfDnpQsZ2qb0GqDPjJsX4AahA7gvspa+Q1e1LVHwloEESkgFjXnTtzf/O5eQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwzasxEgjqNukuCBWvI7V8yy6A18Ai5zJXKsn1jaKrYKmXt48ELwjgUvXwI3VW9X4LmhxZQGPP3+Dwqqvf+BX9jw==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
