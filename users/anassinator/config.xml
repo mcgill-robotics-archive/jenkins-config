@@ -802,7 +802,7 @@
         </entry>
         <entry>
           <string>drone/projections</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/fix-nan-tf</string>
