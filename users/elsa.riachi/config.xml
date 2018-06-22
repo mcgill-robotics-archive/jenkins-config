@@ -29,6 +29,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/add-cv</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/target_detection</string>
           <boolean>true</boolean>
         </entry>
