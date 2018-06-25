@@ -405,6 +405,10 @@
           <boolean>false</boolean>
         </entry>
         <entry>
+          <string>ros-tritech-micron/baudrate</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>compsys/pipenv</string>
           <boolean>false</boolean>
         </entry>
