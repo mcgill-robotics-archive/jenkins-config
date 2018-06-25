@@ -132,6 +132,7 @@
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
         <string>auv</string>
         <string>ros-dcdc-nuc</string>
+        <string>ros-teledyne-navigator</string>
         <string>ros-tritech-micron</string>
       </jobNames>
       <jobFilters/>
