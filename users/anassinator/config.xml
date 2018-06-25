@@ -18,7 +18,7 @@
             <name>blueocean-github-domain</name>
             <description>blueocean-github-domain to store credentials by BlueOcean</description>
             <specifications>
-              <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanDomainSpecification plugin="blueocean-pipeline-scm-api@1.5.0"/>
+              <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanDomainSpecification plugin="blueocean-pipeline-scm-api@1.6.1"/>
             </specifications>
           </com.cloudbees.plugins.credentials.domains.Domain>
           <list>
@@ -65,11 +65,11 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/update-interop-frontend</string>
+          <string>drone/mavros_obstacle</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/mavros_obstacle</string>
+          <string>drone/update-interop-frontend</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -105,11 +105,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/fix-statustext-length</string>
+          <string>compsys/zsh-cursor-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/zsh-cursor-fix</string>
+          <string>drone/fix-statustext-length</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -153,11 +153,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/mux-config</string>
+          <string>drone/PR-508</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-508</string>
+          <string>drone/mux-config</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -181,19 +181,19 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/rviz-satellite</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/fix-planner-launch</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/ground-fix</string>
+          <string>drone/rviz-satellite</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/python2-docs</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/ground-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -241,11 +241,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-526</string>
+          <string>drone/local-obstacle-predictions</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/local-obstacle-predictions</string>
+          <string>drone/PR-526</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -269,7 +269,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/web-video-server</string>
+          <string>drone/viz</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -277,7 +277,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/viz</string>
+          <string>drone/web-video-server</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -289,11 +289,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/rviz_altitude</string>
+          <string>ros-web-image-view/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/package-2</string>
+          <string>drone/rviz_altitude</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -995,7 +995,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwGqDX/EtNJjFX/WdFoM1ypIjmiHvIna+Bf4FVtw1gW/z0VMNZ5Wb4WQjJT/S0AklW85H7Wi+NJBxlxweAgcBjcA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwRM5osXByBq5ZAcdQd3EUxMAy5h2gmPwBf/LiSEW0GJ6ju8sX4vGk7uVg+58NsR859ao9eVcXDaiatxYReHXZtA==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
