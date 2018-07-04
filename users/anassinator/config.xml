@@ -874,7 +874,7 @@
         </entry>
         <entry>
           <string>auv/PR-377</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/PR-543</string>
