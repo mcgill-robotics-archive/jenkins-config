@@ -414,7 +414,7 @@
         </entry>
         <entry>
           <string>ros-tritech-micron/baudrate</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>compsys/pipenv</string>
