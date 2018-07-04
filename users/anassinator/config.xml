@@ -105,11 +105,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/fix-statustext-length</string>
+          <string>compsys/zsh-cursor-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>compsys/zsh-cursor-fix</string>
+          <string>drone/fix-statustext-length</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -153,11 +153,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/mux-config</string>
+          <string>drone/PR-508</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-508</string>
+          <string>drone/mux-config</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -185,19 +185,19 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/rviz-satellite</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
           <string>drone/fix-planner-launch</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/ground-fix</string>
+          <string>drone/rviz-satellite</string>
           <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/python2-docs</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>drone/ground-fix</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -245,11 +245,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/PR-526</string>
+          <string>drone/local-obstacle-predictions</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/local-obstacle-predictions</string>
+          <string>drone/PR-526</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -273,7 +273,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/web-video-server</string>
+          <string>drone/viz</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -281,7 +281,7 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/viz</string>
+          <string>drone/web-video-server</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -293,11 +293,11 @@
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>drone/rviz_altitude</string>
+          <string>ros-web-image-view/package-2</string>
           <boolean>false</boolean>
         </entry>
         <entry>
-          <string>ros-web-image-view/package-2</string>
+          <string>drone/rviz_altitude</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -1003,7 +1003,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwVZUz3LrrtqYnN1JO+nGAHdmwK5sGFqYGlWxOArJ8DxYoZv4GkBkpmvMBZq2N4OaQ7+/f0WjEhmxTXhdOiwFhwQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwpinTttply3sGoPG6NgehQeyvDy3i+xsCATwa2qb1OcE5p9Pw+0Gum6H9N5h9XOsxZ+LKZ8n00Un5512/RUrIGQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
