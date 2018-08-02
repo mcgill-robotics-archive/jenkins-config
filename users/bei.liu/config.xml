@@ -17,23 +17,15 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/cw-land</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>auv/feature%2Fblinky</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/PR-372</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>Firmware/vtail_pitch</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-551</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/feature%2Fvacuum</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -45,19 +37,31 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/setup%2Ftmuxinator</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/interop_frontend_image_changes</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/PR-359</string>
+          <string>drone/cw-survey</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/cw-survey</string>
+          <string>drone/cw-land</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/PR-372</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Firmware/vtail_pitch</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/setup%2Ftmuxinator</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>auv/PR-359</string>
           <boolean>true</boolean>
         </entry>
       </data>
