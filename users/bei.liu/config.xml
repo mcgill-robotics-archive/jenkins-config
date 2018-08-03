@@ -17,6 +17,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
+          <string>auv/fix%2Fhydrophone</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/feature%2Fblinky</string>
           <boolean>true</boolean>
         </entry>
