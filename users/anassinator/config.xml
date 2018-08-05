@@ -33,7 +33,7 @@
         </entry>
       </domainCredentialsMap>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
+    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.63">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.model.MyViewsProperty>
@@ -151,7 +151,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwMmMpdeEEUIVbXH3LahPNOZ+IWgR4yso2wG9Av+zbAdumbPBlCQBFRLOHdfMa6QhAU5bnaDW8SMGMSD58iP04TQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAw80dBqst/BcktRi+h17ElLU1J5ZE4GRkB2LpDdEBuw5lrkMbUtrGkO5N7CgS6YFcP7+yYF0rnwkrx30pn4cxjjg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
