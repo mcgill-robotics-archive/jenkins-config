@@ -3,7 +3,9 @@
   <fullName>bei.liu</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwWOxwPsLYWE62lEMD6lI9I403xhBmeh+kdgzr04IIPPyihx3h8w9ErDo40PC/1+c6bbqios7/64Mk7D72RspRXg==}</apiToken>
+      <tokenStore>
+        <tokenList/>
+      </tokenStore>
     </jenkins.security.ApiTokenProperty>
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.2">
       <autofavoriteEnabled>true</autofavoriteEnabled>
