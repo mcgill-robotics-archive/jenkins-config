@@ -4,6 +4,18 @@
   <properties>
     <jenkins.security.ApiTokenProperty>
       <apiToken>{AQAAABAAAAAwCwbdcnNqvCgMr6YOW4WVL4iNG3sidiXojZQMg/KuVaeSOG9r4u5PSVmOPVoT2MHwjhSfMjtWWGzbj4vbgSy/fw==}</apiToken>
+      <tokenStore>
+        <tokenList>
+          <jenkins.security.apitoken.ApiTokenStore_-HashedToken>
+            <uuid>6495b9f7-3cf9-4be3-9c51-5af62dcb243c</uuid>
+            <name>Legacy Token</name>
+            <value>
+              <version>10</version>
+              <hash>1c0f83853ad0c899671c48af682cbd014cfefa6afd058a57fa7be24579afb2c6</hash>
+            </value>
+          </jenkins.security.apitoken.ApiTokenStore_-HashedToken>
+        </tokenList>
+      </tokenStore>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.18">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
@@ -151,7 +163,7 @@
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwNQFhVSI8atmYIrfVOzwoJ7/0FrUW1McvJ5eZKFGg5g/OMyah0eyYdunLDLs3/1E2m8wcXOd+LVw4Z/W2UUjmgA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwUFzjy5xNQHju1r0TDKzYKqK5kxh6K/WPGKQ9uhRu9+y2rtPSPi56lzIEplfnHIgX82naJG3API4+yx3yx3NGAw==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
