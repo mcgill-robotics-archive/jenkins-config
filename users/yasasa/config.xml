@@ -164,11 +164,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwM7pp9eGe8S1Od5dRu2hmsFC3U8Djy5ob+G91aiVZpcDuOnVRvbKSBvguzvCiJutBQv3RP3PyswlHziQcdzMz0A==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwQ9iRBhVDzJEJYhul0Mab7qaSWHsInf49B54iz9CDXoI5ROEG6TcHsmMEzH3/RUo24talnBLEmOyHNeENH1nyVA==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
