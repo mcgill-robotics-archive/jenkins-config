@@ -20,7 +20,7 @@
             <name>blueocean-github-domain</name>
             <description>blueocean-github-domain to store credentials by BlueOcean</description>
             <specifications>
-              <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanDomainSpecification plugin="blueocean-pipeline-scm-api@1.8.2"/>
+              <io.jenkins.blueocean.rest.impl.pipeline.credential.BlueOceanDomainSpecification plugin="blueocean-pipeline-scm-api@1.8.3"/>
             </specifications>
           </com.cloudbees.plugins.credentials.domains.Domain>
           <list>
@@ -149,6 +149,10 @@
         <entry>
           <string>drone/projections</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>compsys/PR-147</string>
+          <boolean>true</boolean>
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
