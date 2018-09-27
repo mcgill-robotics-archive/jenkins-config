@@ -23,11 +23,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add-flyzone-cost</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-564</string>
+          <string>drone/PR-545</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -35,11 +39,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-flyzone-cost</string>
+          <string>drone/PR-564</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-545</string>
+          <string>tools.sh/update-format.sh</string>
           <boolean>true</boolean>
         </entry>
       </data>
