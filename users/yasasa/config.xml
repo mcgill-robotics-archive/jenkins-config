@@ -19,7 +19,111 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/fix-obstacle-cost</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/add-airdrop</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-562</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-564</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>tools.sh/PR-8</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/inc-survey-altitude</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/auvsi-suas2018GSC</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/add-offboard-takeoff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-559</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-539</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/add-moving-obstacle-avoidance</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-511</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-512</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/bionic</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-519</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-offboard-interface</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-wiggle</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/rename-stuff</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-553</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-496</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-495</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-525</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-takeoff-bug</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-500</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-522</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/revert-553-multimaster_list</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -31,35 +135,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>compsys/revert-147-bionic</string>
+          <string>drone/multimaster_list</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add_moving_obstacle_avoidance</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/bionic</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-149</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-564</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/PR-7</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>tools.sh/update-format.sh</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>compsys/PR-148</string>
+          <string>drone/PR-546</string>
           <boolean>true</boolean>
         </entry>
       </data>
@@ -84,11 +168,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwM7pp9eGe8S1Od5dRu2hmsFC3U8Djy5ob+G91aiVZpcDuOnVRvbKSBvguzvCiJutBQv3RP3PyswlHziQcdzMz0A==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwQ9iRBhVDzJEJYhul0Mab7qaSWHsInf49B54iz9CDXoI5ROEG6TcHsmMEzH3/RUo24talnBLEmOyHNeENH1nyVA==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
