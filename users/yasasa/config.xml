@@ -79,6 +79,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>tools.sh/revert-7-update-format.sh</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-519</string>
           <boolean>true</boolean>
         </entry>
