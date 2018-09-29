@@ -19,6 +19,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
+          <string>drone/update-usbfs</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/sitl-mux</string>
           <boolean>true</boolean>
         </entry>
