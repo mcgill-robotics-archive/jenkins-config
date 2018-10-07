@@ -22,6 +22,10 @@
           <string>compsys/b_compatible</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>compsys/PR-150</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <hudson.model.MyViewsProperty>
