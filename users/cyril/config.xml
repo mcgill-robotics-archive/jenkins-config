@@ -26,6 +26,10 @@
           <string>drone/fix_draw_line</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>ros-interop/removeInteropMoveObstacles</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <hudson.model.MyViewsProperty>
