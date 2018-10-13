@@ -35,11 +35,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-564</string>
+          <string>tools.sh/PR-8</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>tools.sh/PR-8</string>
+          <string>drone/PR-564</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -148,6 +148,10 @@
         </entry>
         <entry>
           <string>drone/PR-546</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/fix-visualization</string>
           <boolean>true</boolean>
         </entry>
       </data>
