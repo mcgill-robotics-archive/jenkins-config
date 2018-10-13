@@ -155,6 +155,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/feature%2FremoveMovingObs</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/fix-visualization</string>
           <boolean>true</boolean>
         </entry>
