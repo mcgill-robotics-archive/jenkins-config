@@ -35,11 +35,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>tools.sh/PR-8</string>
+          <string>drone/PR-564</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-564</string>
+          <string>tools.sh/PR-8</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -184,11 +184,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwM7pp9eGe8S1Od5dRu2hmsFC3U8Djy5ob+G91aiVZpcDuOnVRvbKSBvguzvCiJutBQv3RP3PyswlHziQcdzMz0A==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwrMBtzplqKI8cOgwqsSvOiBpyh8QA2MD3hX8pIv4hkActHDrAzpUVg3cL1xGY61160G6sJlBTibTRid+hHITxsQ==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
