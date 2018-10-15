@@ -19,15 +19,7 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
-          <string>drone/fix-obstacle-cost</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/add-airdrop</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-offboard-takeoff</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -43,38 +35,6 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/inc-survey-altitude</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/auvsi-suas2018GSC</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/add-offboard-takeoff</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-559</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-539</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/add-moving-obstacle-avoidance</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-511</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-512</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/bionic</string>
           <boolean>true</boolean>
         </entry>
@@ -83,55 +43,7 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-519</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-offboard-interface</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-wiggle</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/rename-stuff</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-553</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-496</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-495</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/PR-571</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-525</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/fix-takeoff-bug</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-500</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-522</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/revert-553-multimaster_list</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -140,18 +52,6 @@
         </entry>
         <entry>
           <string>drone/PR-545</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/multimaster_list</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/add_moving_obstacle_avoidance</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-546</string>
           <boolean>true</boolean>
         </entry>
         <entry>
