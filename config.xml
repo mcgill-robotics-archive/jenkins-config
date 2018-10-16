@@ -16,6 +16,7 @@
       <adminUserNameList class="linked-list">
         <string>mcgillrobotics</string>
         <string>anassinator</string>
+        <string>yasasa</string>
       </adminUserNameList>
       <authenticatedUserReadPermission>false</authenticatedUserReadPermission>
       <useRepositoryPermissions>true</useRepositoryPermissions>
@@ -30,7 +31,7 @@
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAwflX8VQc3t0sdwzGSQKUmjPisj+CDLEix1gjDkpWsV1pacHpFtY31u0cfTrT3a9Emyg5ephO+bhkyyVx5Szct8Q==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAwD2JdvmP4nY//ZSDmO0CwxcMJiA0syZPY8IGjWk3rsTHSpRapzBg4oUvvIUWEb7QtJ5f0ZNm5eqODOyJWLuW9SA==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
@@ -185,10 +186,6 @@
   </views>
   <primaryView>ALL</primaryView>
   <slaveAgentPort>-1</slaveAgentPort>
-  <disabledAgentProtocols>
-    <string>JNLP-connect</string>
-    <string>JNLP2-connect</string>
-  </disabledAgentProtocols>
   <label></label>
   <crumbIssuer class="hudson.security.csrf.DefaultCrumbIssuer">
     <excludeClientIPFromCrumb>false</excludeClientIPFromCrumb>
