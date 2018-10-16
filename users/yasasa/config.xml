@@ -11,7 +11,14 @@
       <autofavoriteEnabled>true</autofavoriteEnabled>
     </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.18">
-      <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
+      <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
+        <entry>
+          <com.cloudbees.plugins.credentials.domains.Domain>
+            <specifications/>
+          </com.cloudbees.plugins.credentials.domains.Domain>
+          <java.util.concurrent.CopyOnWriteArrayList/>
+        </entry>
+      </domainCredentialsMap>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.63">
       <triggers/>
@@ -23,7 +30,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/add-flyzone-cost</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-562</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/bionic</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -35,35 +50,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/bionic</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>tools.sh/revert-7-update-format.sh</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/master</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-571</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/add-flyzone-cost</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/PR-545</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>drone/feature%2FremoveMovingObs</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>drone/fix-visualization</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/master</string>
           <boolean>true</boolean>
         </entry>
       </data>
@@ -83,7 +78,9 @@
       <providerId>default</providerId>
     </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
     <hudson.model.PaneStatusProperties>
-      <collapsed/>
+      <collapsed>
+        <string>executors</string>
+      </collapsed>
     </hudson.model.PaneStatusProperties>
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
@@ -92,7 +89,7 @@
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwHxZROD/FniK9EvCMhH56EYRjTzcho4cNUU7kuQn4nbJBwNIG5T3d98708HWCi5iIOAq7I7f9VDbyGdTG5xSIvQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwSYO2OFLKA3FLh908dNS/FALRjUlbDOcUibVEjkXSz0wdBFrohr/tuqLUGCO0kJkiTRRJlgU5A4DdO5d/5T7Iaw==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
