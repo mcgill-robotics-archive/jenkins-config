@@ -43,7 +43,7 @@
       <emailAddress>d.lavoie.boutin@me.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwCKr1a5+7sxi5e9ckPiI9sxvElHr5rbweBb95rT6WZLHvAGxayUAPfNoKZRy5VQRyExnf7xxHvpdAdRkiXvo+GA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwMRd1RznqzRk3Xwiq4QCjrRc1ZvYIUU64BRMGSzjOuX9MuMtj4VagDcyzUzRyRlvOmDgcZYpB3kaLjry2maFu3g==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
