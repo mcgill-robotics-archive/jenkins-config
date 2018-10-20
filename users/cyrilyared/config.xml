@@ -39,11 +39,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwItkKBqSWt48jW7CCUVxbUEj9hSO6Az3Oljpvk5Z8Dr1tpie8JmJnL09Mmmrppt3cpb8Ww/2pxrsjOwzWcMAxJA==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>cyril@yared.info</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwJ9At+tjNplKpChhFrQmdDvuDmHuw6ECk82cKFoA1aI08kf2DEIaBDV5COlJAMYn6yyCriid698TTZq7y419KBg==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
