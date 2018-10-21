@@ -42,6 +42,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/add-dockerfile</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/PR-564</string>
           <boolean>true</boolean>
         </entry>
@@ -89,7 +93,7 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
