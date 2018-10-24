@@ -46,6 +46,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>drone/PR-576</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/add-flyzone-cost</string>
           <boolean>true</boolean>
         </entry>
