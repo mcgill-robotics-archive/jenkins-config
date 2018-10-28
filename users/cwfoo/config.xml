@@ -39,11 +39,11 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwQ/zLmDjxrgB25cjx4KQSITcaQP+CETqMhUwxoXPcYHVWypU2OT+Y4+aN1FSKbDsftLUCFXTq+3iwV8O7zseigw==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
       <emailAddress>jongchi@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwmU7hcqnRoz0B/JLevXo+setAZDfSloqXnSzEYuHKESVnSqL+B/5Kh50Flxj/PS/IsajtbcfBHc29s9iwjh++ew==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
