@@ -27,6 +27,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/feature%2Fgui</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/feature%2FextremeRepoReconstructionChallenge</string>
           <boolean>true</boolean>
         </entry>
@@ -52,7 +56,7 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
       <emailAddress>jgomallette@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
