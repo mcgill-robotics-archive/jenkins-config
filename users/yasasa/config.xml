@@ -30,11 +30,15 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>Firmware/new-master</string>
           <boolean>true</boolean>
         </entry>
         <entry>
           <string>drone/add-dockerfile</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
