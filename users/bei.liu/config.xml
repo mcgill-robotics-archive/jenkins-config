@@ -51,6 +51,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>compsys/catkin_tools</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>drone/cw-land</string>
           <boolean>true</boolean>
         </entry>
@@ -96,7 +100,7 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
       <emailAddress>bei.liu@mail.mcgill.ca</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
