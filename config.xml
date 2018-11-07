@@ -24,14 +24,14 @@
       <allowGithubWebHookPermission>true</allowGithubWebHookPermission>
       <allowCcTrayPermission>false</allowCcTrayPermission>
       <allowAnonymousReadPermission>true</allowAnonymousReadPermission>
-      <allowAnonymousJobStatusPermission>false</allowAnonymousJobStatusPermission>
+      <allowAnonymousJobStatusPermission>true</allowAnonymousJobStatusPermission>
     </rootACL>
   </authorizationStrategy>
   <securityRealm class="org.jenkinsci.plugins.GithubSecurityRealm">
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAwpdhOCGNsaz0uEHrGysTyQ6Q/VybhEYX8Qjg5dm/4Vz0yeVve6LrOViIeBKJESpltLPnvhTl79YNPxPyGMVBGQg==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAwRmjUXZVX/x62eXPUjQi6Jxn6SYhEvU2epg8eZk3ZoaWRT6Cg1I3GkNK32GKXQY+K9V8rf8+CQq6xy34RYGRXHQ==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
