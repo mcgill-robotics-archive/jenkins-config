@@ -18,9 +18,9 @@
         <string>anassinator</string>
         <string>yasasa</string>
       </adminUserNameList>
-      <authenticatedUserReadPermission>true</authenticatedUserReadPermission>
+      <authenticatedUserReadPermission>false</authenticatedUserReadPermission>
       <useRepositoryPermissions>true</useRepositoryPermissions>
-      <authenticatedUserCreateJobPermission>true</authenticatedUserCreateJobPermission>
+      <authenticatedUserCreateJobPermission>false</authenticatedUserCreateJobPermission>
       <allowGithubWebHookPermission>true</allowGithubWebHookPermission>
       <allowCcTrayPermission>false</allowCcTrayPermission>
       <allowAnonymousReadPermission>true</allowAnonymousReadPermission>
@@ -31,7 +31,7 @@
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAw101YLGdbDv1AhbJqlbO8egTaUImRVTJNbTSQnLJR1oeBp5V50viJjmlpBKexhtTev5Dt6YLVwCoGYwRKgo3cNw==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAwoVn70+cUwd1oPeJiGNvsGxyj24lhcQ0yrWyAfxxF1oj8AEHuggEeIHNlF0BJQB2589bpEZsn837wrddqt+vt+w==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
