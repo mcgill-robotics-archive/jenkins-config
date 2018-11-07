@@ -67,6 +67,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>compsys/PR-151</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/setup%2Ftmuxinator</string>
           <boolean>true</boolean>
         </entry>
