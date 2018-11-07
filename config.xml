@@ -8,12 +8,30 @@
   <numExecutors>4</numExecutors>
   <mode>NORMAL</mode>
   <useSecurity>true</useSecurity>
-  <authorizationStrategy class="hudson.security.AuthorizationStrategy$Unsecured"/>
+  <authorizationStrategy class="org.jenkinsci.plugins.GithubAuthorizationStrategy" plugin="github-oauth@0.29">
+    <rootACL>
+      <organizationNameList class="linked-list">
+        <string>mcgill-robotics</string>
+      </organizationNameList>
+      <adminUserNameList class="linked-list">
+        <string>mcgillrobotics</string>
+        <string>anassinator</string>
+        <string>yasasa</string>
+      </adminUserNameList>
+      <authenticatedUserReadPermission>true</authenticatedUserReadPermission>
+      <useRepositoryPermissions>true</useRepositoryPermissions>
+      <authenticatedUserCreateJobPermission>true</authenticatedUserCreateJobPermission>
+      <allowGithubWebHookPermission>true</allowGithubWebHookPermission>
+      <allowCcTrayPermission>false</allowCcTrayPermission>
+      <allowAnonymousReadPermission>true</allowAnonymousReadPermission>
+      <allowAnonymousJobStatusPermission>false</allowAnonymousJobStatusPermission>
+    </rootACL>
+  </authorizationStrategy>
   <securityRealm class="org.jenkinsci.plugins.GithubSecurityRealm">
     <githubWebUri>https://github.com</githubWebUri>
     <githubApiUri>https://api.github.com</githubApiUri>
     <clientID>dfda38c25d847c2b0f4e</clientID>
-    <clientSecret>{AQAAABAAAAAwpZRrIOP0Bu3Z3wnO6BTih6V8nLtwIpgV8MhRGLIg3H1gMDlTv2QjIWKtzYOC/vVrkztE2BgAn22nLxE9U+Nzjw==}</clientSecret>
+    <clientSecret>{AQAAABAAAAAw101YLGdbDv1AhbJqlbO8egTaUImRVTJNbTSQnLJR1oeBp5V50viJjmlpBKexhtTev5Dt6YLVwCoGYwRKgo3cNw==}</clientSecret>
     <oauthScopes>read:org,user:email</oauthScopes>
   </securityRealm>
   <disableRememberMe>false</disableRememberMe>
