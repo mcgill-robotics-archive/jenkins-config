@@ -109,7 +109,7 @@
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwnE6AaTORa35FHZa6VSyotKXenSRVY6ROTc1kptKgGQEd1WR1HQtzeXO1r5KrnvZvxXypPTYmUK9gYC61g2vMjw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwWdRcld+YszoR+ciWY8zimOSeAtvu1VJxeK2bSTmE0Qsf6IYElSBlB2uQUXetHA5mJbUrGg5dxGYNPCvoC+wpmQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
