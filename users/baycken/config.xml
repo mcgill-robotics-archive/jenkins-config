@@ -32,9 +32,6 @@
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwC5WIdd7jqL+Aema/sCKdFwT7rV5JasPO5f3pQRQbaHqu4rANy71i5m5VFRckTXUy+yd12KzmRJEjD14UxJN+kQ==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.model.MyViewsProperty>
       <primaryViewName></primaryViewName>
       <views>
@@ -59,5 +56,8 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwvYQ7s/rS9rCAi03cXPRId8h2XpV6xuhOuRXs+1ASEwwz2xCN6c1xcFX9e4oE+DTaaXU/djdqauCQOvYWmL34Rw==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
