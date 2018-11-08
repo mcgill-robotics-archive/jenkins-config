@@ -57,7 +57,7 @@
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwvYQ7s/rS9rCAi03cXPRId8h2XpV6xuhOuRXs+1ASEwwz2xCN6c1xcFX9e4oE+DTaaXU/djdqauCQOvYWmL34Rw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwvQdvyeL2mBEC6Bgkw3gUBFhu/8ClG/cpIKhqWfuy1sGKhgXbSmzxwcpbO2Ob6awSZqOQU8vmOjk46JQp72UtDQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
