@@ -34,11 +34,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add-dockerfile</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-dockerfile</string>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -109,7 +109,7 @@
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw+/aZe1jMQjvkUIBUVOlM7lxNEdaitjpIWHLm7QsZgAAxv5mD+bMets4ES/BwxNdw0zIyCezIgoRdABwaL1tQAQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwltUJe6RvxszwjZuKyWzEX0E0T0xnkJLPjAXOanx/2Sa9HxYm4vyUVmg9goGWHFyTiA8WS9a2v7ec7dNwvpAZrw==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
