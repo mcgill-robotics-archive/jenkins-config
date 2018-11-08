@@ -1,6 +1,7 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <user>
   <fullName>Bei Chen Liu</fullName>
+  <description></description>
   <properties>
     <jenkins.security.ApiTokenProperty>
       <tokenStore>
@@ -13,6 +14,9 @@
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.18">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
+      <emailAddress>bei.liu@mail.mcgill.ca</emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.63">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
@@ -28,7 +32,11 @@
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
+      <accessToken>{AQAAABAAAAAwC5WIdd7jqL+Aema/sCKdFwT7rV5JasPO5f3pQRQbaHqu4rANy71i5m5VFRckTXUy+yd12KzmRJEjD14UxJN+kQ==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
     <hudson.model.MyViewsProperty>
+      <primaryViewName></primaryViewName>
       <views>
         <hudson.model.AllView>
           <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
@@ -45,14 +53,11 @@
     <hudson.model.PaneStatusProperties>
       <collapsed/>
     </hudson.model.PaneStatusProperties>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys></authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
-      <emailAddress>baycken@vpn75183.vpn.mcgill.ca</emailAddress>
-    </hudson.tasks.Mailer_-UserProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwC5WIdd7jqL+Aema/sCKdFwT7rV5JasPO5f3pQRQbaHqu4rANy71i5m5VFRckTXUy+yd12KzmRJEjD14UxJN+kQ==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
