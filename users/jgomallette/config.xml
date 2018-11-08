@@ -39,6 +39,10 @@
           <boolean>true</boolean>
         </entry>
         <entry>
+          <string>auv/PR-381</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/feature%2FextremeRepoReconstructionChallenge</string>
           <boolean>true</boolean>
         </entry>
