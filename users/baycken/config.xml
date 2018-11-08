@@ -52,7 +52,7 @@
       <emailAddress>baycken@vpn75183.vpn.mcgill.ca</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw3rvk3BK4kdSLkL4szJsS8zEVuet8Oc3DztsFHzcuoJ6FhPTr4tx66xCKHK2s4y84wrtwvrdW728c+EmA/BmV2A==}</accessToken>
+      <accessToken>{AQAAABAAAAAw52slsc4u4inqb1Q8/M3AloI8d2AgVvtp74kRCW6/AU3X0IPqopLB0LWEz2HBP5MRlNHzymMcbVLEBta5RuqS/Q==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
