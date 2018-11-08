@@ -1,6 +1,6 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <user>
-  <fullName>baycken</fullName>
+  <fullName>Bei Chen Liu</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
       <tokenStore>
@@ -52,7 +52,7 @@
       <emailAddress>baycken@vpn75183.vpn.mcgill.ca</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAw+AeVcaSPPMZHardLvUEHKmJM48zcMFJP/jtKxLsepVPkM2o6Sjoz8A9kD1+mNKKYXp6ziOMiEch/M7Duc0fJjw==}</accessToken>
+      <accessToken>{AQAAABAAAAAwXdkhDa47ozlEPD6//w6w+lC3919haf40BGSuJq+CQvcex3GuG/oWIrsWKpB0b+OxFDF4QAO9D3MkSNopFT1B0w==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
