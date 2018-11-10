@@ -46,6 +46,10 @@
           <string>auv/feature%2FextremeRepoReconstructionChallenge</string>
           <boolean>true</boolean>
         </entry>
+        <entry>
+          <string>auv/bugfix%2Fmux</string>
+          <boolean>true</boolean>
+        </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
     <hudson.model.MyViewsProperty>
