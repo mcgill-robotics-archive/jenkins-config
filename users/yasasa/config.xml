@@ -34,11 +34,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-dockerfile</string>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add-dockerfile</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -94,7 +94,7 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.2.0">
+    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.3.0">
       <providerId>default</providerId>
     </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
     <hudson.model.PaneStatusProperties>
@@ -108,8 +108,8 @@
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.22">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.29">
-      <accessToken>{AQAAABAAAAAwyF3bf9QuH0KboUAnDkyS+ryzK+xXXMhfVEah41Q6NYxIHI1te/8UGigULTf01rnsRcUG1wk+vpryzcqI9e0Y2w==}</accessToken>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.31">
+      <accessToken>{AQAAABAAAAAwcUm/Xvau28vaMSJC8oBGLH3CHVURlHudZu3H0OWGfuC+n6Ci+gEHbWQNaBVkaCpdW4WcIPqTz+SCg4+l3vtb5A==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
