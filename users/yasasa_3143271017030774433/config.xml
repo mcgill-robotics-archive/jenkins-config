@@ -12,7 +12,7 @@
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.4">
       <autofavoriteEnabled>true</autofavoriteEnabled>
     </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
-    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.2.1">
+    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.3.0">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
         <entry>
           <com.cloudbees.plugins.credentials.domains.Domain>
@@ -36,11 +36,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-dockerfile</string>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add-dockerfile</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -107,14 +107,14 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.24">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.27">
       <emailAddress>yasasa.abey@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <jenkins.security.seed.UserSeedProperty>
       <seed>2ccfec5dc9c5bcf3</seed>
     </jenkins.security.seed.UserSeedProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwFC45brEF5SVK71v6i4L4AhEAyOn9dRJfI2ybW+BrhFIgFQf60hmruA7AY20qWFdNjg42wa/tt9aKkWYHa4bb0Q==}</accessToken>
+      <accessToken>{AQAAABAAAAAwE+N77H3PBOEP49w0Gge8ygfJxvqWA42UFYnLdMzZbJAt0NxqXl/EeLr/3Lr2u7Bko1GNWfQcUu75D5ozdfFQRg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
