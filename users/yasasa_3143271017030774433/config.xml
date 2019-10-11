@@ -36,11 +36,11 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/PR-562</string>
+          <string>drone/add-dockerfile</string>
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>drone/add-dockerfile</string>
+          <string>drone/PR-562</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -114,7 +114,7 @@
       <seed>2ccfec5dc9c5bcf3</seed>
     </jenkins.security.seed.UserSeedProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwE+N77H3PBOEP49w0Gge8ygfJxvqWA42UFYnLdMzZbJAt0NxqXl/EeLr/3Lr2u7Bko1GNWfQcUu75D5ozdfFQRg==}</accessToken>
+      <accessToken>{AQAAABAAAAAw9vB15C5zS8ETbIhAB4S0yVI/e8Qc9SDss5JAXJMg0RHdDuM32Yl3XB4pFEYWARZrRLfnMxi/rr6Lhv079MuIWQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
