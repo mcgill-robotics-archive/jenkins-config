@@ -12,7 +12,7 @@
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.4">
       <autofavoriteEnabled>true</autofavoriteEnabled>
     </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
-    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.2.1">
+    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.3.0">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.66">
@@ -41,11 +41,14 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwepqp3Cw4fFjRWYX8d9jXVRyq0mlxSojOSbWMNsNArDZ6y8Gw7cTLqcm7G+tmBfGqUYaFIOiyPb9e+VX/spHfhg==}</accessToken>
-    </org.jenkinsci.plugins.GithubAccessTokenProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.24">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.27">
       <emailAddress>theegymber@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <jenkins.security.seed.UserSeedProperty>
+      <seed>72b1ba9fe6935db8</seed>
+    </jenkins.security.seed.UserSeedProperty>
+    <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
+      <accessToken>{AQAAABAAAAAwFib0hjMGdema9QbTGwoKJ+2UkcxGUaUxHi/uzrfB3nsD5J58Hk4AgiHIqN5Z6fFpnRhg8e/ymIO7pEHuKB+Phg==}</accessToken>
+    </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
