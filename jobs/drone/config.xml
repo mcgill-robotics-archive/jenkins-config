@@ -45,7 +45,7 @@
         <source class="org.jenkinsci.plugins.github_branch_source.GitHubSCMSource" plugin="github-branch-source@2.6.0">
           <id>b2697b74-c5f5-4d30-b562-c03fec98e102</id>
           <apiUri>https://api.github.com</apiUri>
-          <credentialsId>github</credentialsId>
+          <credentialsId>48cb1a42-895c-4f2d-b225-fddf7ec17604</credentialsId>
           <repoOwner>mcgill-robotics</repoOwner>
           <repository>drone</repository>
           <repositoryUrl>https://github.com/mcgill-robotics/drone</repositoryUrl>
