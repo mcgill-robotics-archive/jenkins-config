@@ -157,8 +157,9 @@
     <jenkins.security.seed.UserSeedProperty>
       <seed>f4a3839cd45958f2</seed>
     </jenkins.security.seed.UserSeedProperty>
+    <hudson.model.TimeZoneProperty/>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwG/cos1QJYUam8dDqSWdUPv6BhHr8jcr454vqcs32cGz+FiMd91DJqDKYpI6n/P7P5ZNy3K+6ncbpiPId10I82Q==}</accessToken>
+      <accessToken>{AQAAABAAAAAwfpuBTlM74HTQG3E5jEDUEPU3rK5zh5n6wGCg12j1+hw677ZT/HNK81l5TL9qn+u5QsanrlLKP8vRuI2dfB+5cQ==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
