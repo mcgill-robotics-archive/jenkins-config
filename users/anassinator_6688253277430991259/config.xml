@@ -123,7 +123,7 @@
         </entry>
         <entry>
           <string>ros-dcdc-nuc/lint-fix</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/master</string>
