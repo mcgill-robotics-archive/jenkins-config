@@ -75,7 +75,7 @@
         </entry>
         <entry>
           <string>ros-dcdc-nuc/PR-6</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>drone/cw-nav</string>
