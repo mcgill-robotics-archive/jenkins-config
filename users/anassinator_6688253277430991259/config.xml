@@ -174,7 +174,7 @@
       <timeZoneName></timeZoneName>
     </hudson.model.TimeZoneProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwNtfFhx8ZO7rhdoUvIhN9AWL5UDGNT0LGcAiBIlMbvfnfGtK0dGGZ5mm2lt7DndTEY0kMhe+fuzj3tcMHgYTKQA==}</accessToken>
+      <accessToken>{AQAAABAAAAAwxP07+ylBgpKhICG0v+i0dNix4x/L0M9yX2wZbhEY1DhtkKkr9h5r8bUpgSDA3jGfFE9Two8cwxyt+Hw6bjj1mA==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
