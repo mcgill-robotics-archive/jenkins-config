@@ -119,7 +119,7 @@
         </entry>
         <entry>
           <string>self-update/PR-3</string>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
         </entry>
         <entry>
           <string>ros-dcdc-nuc/lint-fix</string>
