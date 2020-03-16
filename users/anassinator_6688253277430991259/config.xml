@@ -3,12 +3,16 @@
   <version>10</version>
   <id>anassinator</id>
   <fullName>Anass Al</fullName>
+  <description></description>
   <properties>
     <jenkins.security.ApiTokenProperty>
       <tokenStore>
         <tokenList/>
       </tokenStore>
     </jenkins.security.ApiTokenProperty>
+    <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.4">
+      <autofavoriteEnabled>true</autofavoriteEnabled>
+    </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.3.3">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
         <entry>
@@ -37,43 +41,16 @@
         </entry>
       </domainCredentialsMap>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.69">
-      <triggers/>
-    </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
-    <hudson.model.MyViewsProperty>
-      <views>
-        <hudson.model.AllView>
-          <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
-          <name>all</name>
-          <filterExecutors>false</filterExecutors>
-          <filterQueue>false</filterQueue>
-          <properties class="hudson.model.View$PropertyList"/>
-        </hudson.model.AllView>
-      </views>
-    </hudson.model.MyViewsProperty>
-    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.3.2">
-      <providerId>default</providerId>
-    </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
-    <hudson.model.PaneStatusProperties>
-      <collapsed/>
-    </hudson.model.PaneStatusProperties>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.30">
       <emailAddress>anassinator@users.noreply.github.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
-    <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.4">
-      <autofavoriteEnabled>true</autofavoriteEnabled>
-    </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
+    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.69">
+      <triggers/>
+    </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
           <string>ros-interop-frontend/master</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>auv/dvl-submodule</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -82,10 +59,6 @@
         </entry>
         <entry>
           <string>drone/mission-generation</string>
-          <boolean>false</boolean>
-        </entry>
-        <entry>
-          <string>drone/rviz_altitude</string>
           <boolean>false</boolean>
         </entry>
         <entry>
@@ -98,6 +71,10 @@
         </entry>
         <entry>
           <string>ros-tritech-micron/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-dcdc-nuc/PR-6</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -121,8 +98,12 @@
           <boolean>true</boolean>
         </entry>
         <entry>
-          <string>auv/PR-377</string>
+          <string>auv/dev</string>
           <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>self-update/fix-auth</string>
+          <boolean>true</boolean>
         </entry>
         <entry>
           <string>ros-storm32-gimbal/master</string>
@@ -134,6 +115,14 @@
         </entry>
         <entry>
           <string>tools.sh/master</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>self-update/PR-3</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>ros-dcdc-nuc/lint-fix</string>
           <boolean>true</boolean>
         </entry>
         <entry>
@@ -154,12 +143,38 @@
         </entry>
       </data>
     </hudson.plugins.favorite.user.FavoriteUserProperty>
+    <hudson.model.MyViewsProperty>
+      <primaryViewName></primaryViewName>
+      <views>
+        <hudson.model.AllView>
+          <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
+          <name>all</name>
+          <filterExecutors>false</filterExecutors>
+          <filterQueue>false</filterQueue>
+          <properties class="hudson.model.View$PropertyList"/>
+        </hudson.model.AllView>
+      </views>
+    </hudson.model.MyViewsProperty>
+    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.3.2">
+      <providerId>default</providerId>
+    </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
+    <hudson.model.PaneStatusProperties>
+      <collapsed/>
+    </hudson.model.PaneStatusProperties>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys></authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
     <jenkins.security.seed.UserSeedProperty>
       <seed>f4a3839cd45958f2</seed>
     </jenkins.security.seed.UserSeedProperty>
-    <hudson.model.TimeZoneProperty/>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
+    <hudson.model.TimeZoneProperty>
+      <timeZoneName></timeZoneName>
+    </hudson.model.TimeZoneProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwfpuBTlM74HTQG3E5jEDUEPU3rK5zh5n6wGCg12j1+hw677ZT/HNK81l5TL9qn+u5QsanrlLKP8vRuI2dfB+5cQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwNtfFhx8ZO7rhdoUvIhN9AWL5UDGNT0LGcAiBIlMbvfnfGtK0dGGZ5mm2lt7DndTEY0kMhe+fuzj3tcMHgYTKQA==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
