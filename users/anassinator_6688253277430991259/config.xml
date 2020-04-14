@@ -13,7 +13,7 @@
     <io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty plugin="blueocean-autofavorite@1.2.4">
       <autofavoriteEnabled>true</autofavoriteEnabled>
     </io.jenkins.blueocean.autofavorite.user.FavoritingUserProperty>
-    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.3.3">
+    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.3.5">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash">
         <entry>
           <com.cloudbees.plugins.credentials.domains.Domain>
@@ -41,7 +41,7 @@
         </entry>
       </domainCredentialsMap>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.30">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.32">
       <emailAddress>anassinator@users.noreply.github.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.69">
@@ -174,7 +174,7 @@
       <timeZoneName></timeZoneName>
     </hudson.model.TimeZoneProperty>
     <org.jenkinsci.plugins.GithubAccessTokenProperty plugin="github-oauth@0.33">
-      <accessToken>{AQAAABAAAAAwJ/OSoCs6iVlXt3O+ebvItuaGzQOzVxboWuVhEKxIwCMuR4O+dvfl+nh5ceXIaXC0TnZoESuUKtPXkdD4MmGvbQ==}</accessToken>
+      <accessToken>{AQAAABAAAAAwT6KsKnGGrEhp60B9ZZFqu0b6pnC1qXjsCgmPeQArN+8NLc+I0RpjlLsy2G4Y701N0c4NmQNOsyUbUdrywBo8Hg==}</accessToken>
     </org.jenkinsci.plugins.GithubAccessTokenProperty>
   </properties>
 </user>
