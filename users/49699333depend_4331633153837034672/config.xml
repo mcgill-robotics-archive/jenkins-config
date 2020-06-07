@@ -21,6 +21,10 @@
     <hudson.plugins.favorite.user.FavoriteUserProperty plugin="favorite@2.3.2">
       <data class="concurrent-hash-map">
         <entry>
+          <string>auv/PR-412</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>auv/dependabot%2Fnpm_and_yarn%2Fcatkin_ws%2Fsrc%2Fgui%2Ffrontend%2Fwebsocket-extensions-0.1.4</string>
           <boolean>true</boolean>
         </entry>
